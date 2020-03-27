@@ -1,0 +1,632 @@
+Constituency,q,r,Electorate,Population,ons_id,ons_region_id,county_name,region_name,country_name,constituency_type,mp_firstname,mp_surname,mp_gender,first_party,second_party,electorate,valid_votes,invalid_votes,majority
+Aldershot,-3,-11,72430,106193,E14000530,E12000008,Hampshire,South East,England,Borough,Leo,Docherty,Male,Con,Lab,72617,47932,251,16698
+Aldridge-Brownhills,-3,-1,60215,77532,E14000531,E12000005,West Midlands,West Midlands,England,Borough,Wendy,Morton,Female,Con,Lab,60138,39342,152,19836
+Altrincham and Sale West,-7,3,71511,101457,E14000532,E12000002,Greater Manchester,North West,England,Borough,Graham,Brady,Male,Con,Lab,73107,54763,173,6139
+Amber Valley,0,2,69510,90132,E14000533,E12000004,Derbyshire,East Midlands,England,County,Nigel,Mills,Male,Con,Lab,69976,45567,151,16886
+Arundel and South Downs,0,-15,77242,100501,E14000534,E12000008,West Sussex,South East,England,County,Andrew,Griffith,Male,Con,LD,81726,61408,287,22521
+Ashfield,1,2,77091,106495,E14000535,E12000004,Nottinghamshire,East Midlands,England,County,Lee,Anderson,Male,Con,Ashfield Independents,78204,48980,118,5733
+Ashford,12,-13,85177,122178,E14000536,E12000008,Kent,South East,England,County,Damian,Green,Male,Con,Lab,89553,60059,279,24029
+Aylesbury,2,-6,80315,121812,E14000538,E12000008,Buckinghamshire,South East,England,County,Rob,Butler,Male,Con,Lab,86665,60576,279,17373
+Banbury,1,-5,86420,122939,E14000539,E12000008,Oxfordshire,South East,England,County,Victoria,Prentis,Female,Con,Lab,90116,62921,355,16813
+Barking,8,-9,73977,139764,E14000540,E12000007,London,London,England,Borough,Margaret,Hodge,Female,Lab,Con,77953,44499,120,15427
+Barnsley Central,-2,6,64534,90319,E14000541,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Daniel,Jarvis,Male,Lab,Brexit,65277,36903,105,3571
+Barnsley East,-1,6,69135,94604,E14000542,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Stephanie,Peacock,Female,Lab,Brexit,69504,38070,110,3217
+Barrow and Furness,-5,13,68338,86806,E14000543,E12000002,Cumbria,North West,England,County,Simon,Fell,Male,Con,Lab,70158,46046,92,5789
+Basildon and Billericay,8,-5,66347,95530,E14000544,E12000006,Essex,East,England,Borough,John,Baron,Male,Con,Lab,69906,44128,185,20412
+Basingstoke,-3,-10,79665,115046,E14000545,E12000008,Hampshire,South East,England,Borough,Maria,Miller,Female,Con,Lab,82928,54713,244,14198
+Bassetlaw,2,4,76796,106994,E14000546,E12000004,Nottinghamshire,East Midlands,England,County,Brendan,Clarke-Smith,Male,Con,Lab,80024,50841,211,14013
+Bath,-6,-9,63084,95024,E14000547,E12000009,Avon,South West,England,Borough,Wera,Hobhouse,Female,LD,Con,67805,52138,192,12322
+Batley and Spen,-1,8,78373,111539,E14000548,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Tracy,Brabin,Female,Lab,Con,79558,52927,104,3525
+Battersea,4,-12,76111,115715,E14000549,E12000007,London,London,England,Borough,Marsha,De Cordova,Female,Lab,Con,79350,59977,157,5668
+Beaconsfield,-1,-8,74726,102421,E14000550,E12000008,Buckinghamshire,South East,England,County,Joy,Morrissey,Female,Con,Ind,77720,57868,167,15712
+Beckenham,7,-14,67439,92767,E14000551,E12000007,London,London,England,Borough,Bob,Stewart,Male,Con,Lab,68662,50555,236,14258
+Bedford,4,-3,69311,106341,E14000552,E12000006,Bedfordshire,East,England,Borough,Mohammad,Yasin,Male,Lab,Con,71581,47301,140,145
+Bermondsey and Old Southwark,5,-11,83298,144175,E14000553,E12000007,London,London,England,Borough,Neil,Coyle,Male,Lab,LD,93248,58615,276,16126
+Bethnal Green and Bow,7,-10,82727,146820,E14000555,E12000007,London,London,England,Borough,Rushanara,Ali,Female,Lab,Con,88262,60562,240,37524
+Beverley and Holderness,4,8,80805,100257,E14000556,E12000003,Humberside,Yorkshire and The Humber,England,County,Graham,Stuart,Male,Con,Lab,79696,53542,248,20448
+Bexhill and Battle,10,-15,78796,104993,E14000557,E12000008,East Sussex,South East,England,County,Huw,Merriman,Male,Con,Lab,81963,59093,352,26059
+Bexleyheath and Crayford,9,-10,64828,93923,E14000558,E12000007,London,London,England,Borough,David,Evennett,Male,Con,Lab,65466,43246,167,13103
+Birkenhead,-10,2,62410,90087,E14000559,E12000002,Merseyside,North West,England,Borough,Mick,Whitley,Male,Lab,Birkenhead Social Justice Party,63762,42329,73,17705
+"Birmingham, Edgbaston",-4,-3,65591,105317,E14000560,E12000005,West Midlands,West Midlands,England,Borough,Preet Kaur,Gill,Female,Lab,Con,68828,42328,149,5614
+"Birmingham, Erdington",-2,-2,65128,103188,E14000561,E12000005,West Midlands,West Midlands,England,Borough,Jack,Dromey,Male,Lab,Con,66148,35229,92,3601
+"Birmingham, Hall Green",-3,-4,76330,120130,E14000562,E12000005,West Midlands,West Midlands,England,Borough,Tahir,Ali,Male,Lab,Con,80283,52911,180,28508
+"Birmingham, Hodge Hill",-1,-2,75302,129262,E14000563,E12000005,West Midlands,West Midlands,England,Borough,Liam,Byrne,Male,Lab,Con,78295,45003,131,28655
+"Birmingham, Ladywood",-3,-3,68128,146279,E14000564,E12000005,West Midlands,West Midlands,England,Borough,Shabana,Mahmood,Female,Lab,Con,74912,42118,153,28582
+"Birmingham, Northfield",-4,-4,71428,103704,E14000565,E12000005,West Midlands,West Midlands,England,Borough,Gary,Sambrook,Male,Con,Lab,73694,43098,140,1640
+"Birmingham, Perry Barr",-3,-2,69943,112420,E14000566,E12000005,West Midlands,West Midlands,England,Borough,Khalid,Mahmood,Male,Lab,Con,72006,42147,115,15317
+"Birmingham, Selly Oak",-3,-5,75092,108848,E14000567,E12000005,West Midlands,West Midlands,England,Borough,Stephen,McCabe,Male,Lab,Con,82665,49467,160,12414
+"Birmingham, Yardley",-2,-3,72146,113069,E14000568,E12000005,West Midlands,West Midlands,England,Borough,Jess,Phillips,Female,Lab,Con,74704,42678,107,10659
+Bishop Auckland,-2,12,66070,88794,E14000569,E12000001,Durham,North East,England,County,Dehenna,Davison,Female,Con,Lab,68170,44805,131,7962
+Blackburn,-6,10,73260,109163,E14000570,E12000002,Lancashire,North West,England,Borough,Kate,Hollern,Female,Lab,Con,71234,44736,109,18304
+Blackley and Broughton,-6,6,71913,121759,E14000571,E12000002,Greater Manchester,North West,England,Borough,Graham,Stringer,Male,Lab,Con,73372,38618,142,14402
+Blackpool North and Cleveleys,-6,12,62468,83152,E14000572,E12000002,Lancashire,North West,England,Borough,Paul,Maynard,Male,Con,Lab,63692,38804,130,8596
+Blackpool South,-8,11,57411,79725,E14000573,E12000002,Lancashire,North West,England,Borough,Scott,Benton,Male,Con,Lab,57690,32752,86,3690
+Blaydon,-3,14,67901,88273,E14000574,E12000001,Tyne and Wear,North East,England,Borough,Liz,Twist,Female,Lab,Con,67853,45681,121,5531
+Blyth Valley,-2,17,61247,83985,E14000575,E12000001,Northumberland,North East,England,Borough,Ian,Levy,Male,Con,Lab,64429,40859,94,712
+Bognor Regis and Littlehampton,2,-15,72995,106496,E14000576,E12000008,West Sussex,South East,England,County,Nick,Gibb,Male,Con,Lab,77446,51223,208,22503
+Bolsover,0,3,71979,98531,E14000577,E12000004,Derbyshire,East Midlands,England,County,Mark,Fletcher,Male,Con,Lab,75161,45938,151,5299
+Bolton North East,-7,7,67895,97992,E14000578,E12000002,Greater Manchester,North West,England,Borough,Mark,Logan,Male,Con,Lab,67564,43556,112,378
+Bolton South East,-7,6,69687,105872,E14000579,E12000002,Greater Manchester,North West,England,Borough,Yasmin,Qureshi,Female,Lab,Con,69163,40604,111,7598
+Bolton West,-8,7,72719,96124,E14000580,E12000002,Greater Manchester,North West,England,County,Chris,Green,Male,Con,Lab,73191,49298,163,8855
+Bootle,-10,7,70145,99224,E14000581,E12000002,Merseyside,North West,England,Borough,Peter,Dowd,Male,Lab,Con,74832,49174,149,34556
+Boston and Skegness,4,5,67064,106272,E14000582,E12000004,Lincolnshire,East Midlands,England,County,Matt,Warman,Male,Con,Lab,69381,41696,175,25621
+Bosworth,0,-1,79738,104589,E14000583,E12000004,Leicestershire,East Midlands,England,County,Luke,Evans,Male,Con,Lab,81542,56432,234,26278
+Bournemouth East,-8,-13,72275,107483,E14000584,E12000009,Dorset,South West,England,Borough,Tobias,Ellwood,Male,Con,Lab,74125,49274,188,8806
+Bournemouth West,-8,-14,72082,105394,E14000585,E12000009,Dorset,South West,England,Borough,Conor,Burns,Male,Con,Lab,74205,45977,211,10150
+Bracknell,-2,-10,81271,111021,E14000586,E12000008,Berkshire,South East,England,County,James,Sunderland,Male,Con,Lab,78978,54350,212,19829
+Bradford East,-2,9,66121,118123,E14000587,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Imran,Hussain,Male,Lab,Con,73206,44184,91,18144
+Bradford South,-2,8,63674,105363,E14000588,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Judith,Cummins,Female,Lab,Con,69046,39741,87,2346
+Bradford West,-3,9,63372,117969,E14000589,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Naz,Shah,Female,Lab,Con,70694,44261,134,27019
+Braintree,8,-2,73557,101121,E14000590,E12000006,Essex,East,England,County,James,Cleverly,Male,Con,Lab,75208,50499,258,24673
+Brent Central,2,-9,77038,147291,E14000591,E12000007,London,London,England,Borough,Dawn,Butler,Female,Lab,Con,84032,49132,224,20870
+Brent North,1,-9,82196,136376,E14000592,E12000007,London,London,England,Borough,Barry,Gardiner,Male,Lab,Con,83788,51879,199,8079
+Brentford and Isleworth,1,-11,84602,134768,E14000593,E12000007,London,London,England,Borough,Ruth,Cadbury,Female,Lab,Con,85775,58326,145,10514
+Brentwood and Ongar,8,-4,71918,96486,E14000594,E12000006,Essex,East,England,County,Alex,Burghart,Male,Con,Lab,75255,52949,238,29065
+Bridgwater and West Somerset,-11,-12,80491,113002,E14000595,E12000009,Somerset,South West,England,County,Ian,Liddell-Grainger,Male,Con,Lab,85327,57652,279,24439
+Brigg and Goole,1,7,68488,88452,E14000596,E12000003,Humberside,Yorkshire and The Humber,England,County,Andrew,Percy,Male,Con,Lab,65939,43402,178,21941
+"Brighton, Kemptown",7,-15,67858,95938,E14000597,E12000008,East Sussex,South East,England,Borough,Lloyd,Russell-Moyle,Male,Lab,Con,69833,48533,140,8061
+"Brighton, Pavilion",6,-15,76557,112196,E14000598,E12000008,East Sussex,South East,England,Borough,Caroline,Lucas,Female,Green,Lab,79057,57998,158,19940
+Bristol East,-7,-9,71193,100828,E14000599,E12000009,Avon,South West,England,Borough,Kerry,McCarthy,Female,Lab,Con,73867,52154,157,10794
+Bristol North West,-8,-9,74743,106013,E14000600,E12000009,Avon,South West,England,Borough,Darren,Jones,Male,Lab,Con,76273,55885,169,5692
+Bristol South,-7,-10,81496,113526,E14000601,E12000009,Avon,South West,England,Borough,Karin,Smyth,Female,Lab,Con,84079,55196,181,9859
+Bristol West,-8,-10,91236,138885,E14000602,E12000009,Avon,South West,England,Borough,Thangam,Debbonaire,Female,Lab,Green,99253,75528,355,28219
+Broadland,7,2,73552,98565,E14000603,E12000006,Norfolk,East,England,County,Jerome,Mayhew,Male,Con,Lab,78151,56977,197,21861
+Bromley and Chislehurst,8,-13,65477,95597,E14000604,E12000007,London,London,England,Borough,Robert,Neill,Male,Con,Lab,66697,45566,201,10891
+Bromsgrove,-4,-5,73337,97594,E14000605,E12000005,Hereford and Worcester,West Midlands,England,County,Sajid,Javid,Male,Con,Lab,75078,54272,260,23106
+Broxbourne,8,-6,72944,102167,E14000606,E12000006,Hertfordshire,East,England,Borough,Charles,Walker,Male,Con,Lab,73182,46706,214,19807
+Broxtowe,0,1,71764,97540,E14000607,E12000004,Nottinghamshire,East Midlands,England,County,Darren,Henry,Male,Con,Lab,73052,55272,173,5331
+Buckingham,2,-5,77425,104977,E14000608,E12000008,Buckinghamshire,South East,England,County,Greg,Smith,Male,Con,LD,83146,63458,241,20411
+Burnley,-4,10,64477,87705,E14000609,E12000002,Lancashire,North West,England,Borough,Antony,Higginbotham,Male,Con,Lab,64345,38984,91,1352
+Burton,-3,1,75248,106400,E14000610,E12000005,Staffordshire,West Midlands,England,County,Kate,Griffiths,Female,Con,Lab,75036,48738,212,14496
+Bury North,-6,9,67580,89662,E14000611,E12000002,Greater Manchester,North West,England,Borough,James,Daly,Male,Con,Lab,68802,46841,111,105
+Bury South,-6,8,73883,99966,E14000612,E12000002,Greater Manchester,North West,England,Borough,Christian,Wakeford,Male,Con,Lab,75152,50274,103,402
+Bury St Edmunds,9,-2,85982,117735,E14000613,E12000006,Suffolk,East,England,County,Jo,Churchill,Female,Con,Lab,89644,61957,288,24988
+Calder Valley,-4,9,77754,104805,E14000614,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Craig,Whittaker,Male,Con,Lab,79287,57793,273,5774
+Camberwell and Peckham,6,-12,82746,131739,E14000615,E12000007,London,London,England,Borough,Harriet,Harman,Female,Lab,Con,88971,56492,246,33780
+Camborne and Redruth,-15,-17,66944,91485,E14000616,E12000009,Cornwall,South West,England,County,George,Eustice,Male,Con,Lab,70250,50367,175,8700
+Cambridge,6,-1,83384,115902,E14000617,E12000006,Cambridgeshire,East,England,Borough,Daniel,Zeichner,Male,Lab,LD,79951,53729,162,9639
+Cannock Chase,-4,-1,74532,99126,E14000618,E12000005,Staffordshire,West Midlands,England,County,Amanda,Milling,Female,Con,Lab,74813,46313,226,19879
+Canterbury,12,-12,81341,119757,E14000619,E12000008,Kent,South East,England,County,Rosemary,Duffield,Female,Lab,Con,80203,60113,240,1836
+Carlisle,-4,14,65827,86429,E14000620,E12000002,Cumbria,North West,England,County,John,Stevenson,Male,Con,Lab,65105,42873,195,8319
+Carshalton and Wallington,4,-14,69981,101780,E14000621,E12000007,London,London,England,Borough,Elliot,Colburn,Male,Con,LD,72941,49098,125,629
+Castle Point,10,-7,68170,89814,E14000622,E12000006,Essex,East,England,Borough,Rebecca,Harris,Female,Con,Lab,69608,44277,296,26634
+Central Devon,-13,-13,72737,93250,E14000623,E12000009,Devon,South West,England,County,Mel,Stride,Male,Con,Lab,74926,58072,347,17721
+Central Suffolk and North Ipswich,10,0,76666,101581,E14000624,E12000006,Suffolk,East,England,County,Dan,Poulter,Male,Con,Lab,80037,56250,274,23391
+Charnwood,3,0,77269,101581,E14000625,E12000004,Leicestershire,East Midlands,England,County,Edward,Argar,Male,Con,Lab,79534,55365,266,22397
+Chatham and Aylesford,10,-11,66355,101469,E14000626,E12000008,Kent,South East,England,County,Tracey,Crouch,Female,Con,Lab,71642,43340,159,18540
+Cheadle,-5,3,73239,93422,E14000627,E12000002,Greater Manchester,North West,England,Borough,Mary,Robinson,Female,Con,LD,74577,55903,215,2336
+Chelmsford,9,-4,78580,111032,E14000628,E12000006,Essex,East,England,Borough,Vicky,Ford,Female,Con,LD,80394,57122,224,17621
+Chelsea and Fulham,2,-11,63478,107789,E14000629,E12000007,London,London,England,Borough,Greg,Hands,Male,Con,LD,67110,46821,150,11241
+Cheltenham,-7,-7,77287,106352,E14000630,E12000009,Gloucestershire,South West,England,Borough,Alex,Chalk,Male,Con,LD,81044,59357,153,981
+Chesham and Amersham,0,-7,72547,95355,E14000631,E12000008,Buckinghamshire,South East,England,County,Cheryl,Gillan,Female,Con,LD,72542,55685,289,16223
+Chesterfield,-1,3,71625,94140,E14000632,E12000004,Derbyshire,East Midlands,England,Borough,Toby,Perkins,Male,Lab,Con,71034,45186,136,1451
+Chichester,-1,-15,83396,110722,E14000633,E12000008,West Sussex,South East,England,County,Gillian,Keegan,Female,Con,LD,85499,61243,251,21490
+Chingford and Woodford Green,6,-6,66680,94571,E14000634,E12000007,London,London,England,County,Iain,Duncan Smith,Male,Con,Lab,65393,48444,235,1262
+Chippenham,-5,-9,74218,99897,E14000635,E12000009,Wiltshire,South West,England,County,Michelle,Donelan,Female,Con,LD,77221,57099,321,11288
+Chipping Barnet,3,-7,77807,118408,E14000636,E12000007,London,London,England,Borough,Theresa,Villiers,Female,Con,Lab,79960,57569,193,1212
+Chorley,-7,9,74679,102715,E14000637,E12000002,Lancashire,North West,England,County,Lindsay,Hoyle,Male,Spk,Ind,78177,39870,1303,17392
+Christchurch,-7,-13,69303,86089,E14000638,E12000009,Dorset,South West,England,County,Christopher,Chope,Male,Con,LD,71520,51951,297,24617
+Clacton,10,-3,68936,89901,E14000642,E12000006,Essex,East,England,County,Giles,Watling,Male,Con,Lab,70930,43506,116,24702
+Cleethorpes,2,7,71008,94333,E14000643,E12000003,Humberside,Yorkshire and The Humber,England,County,Martin,Vickers,Male,Con,Lab,73689,46339,226,21418
+Colchester,9,-3,74204,122387,E14000644,E12000006,Essex,East,England,Borough,Will,Quince,Male,Con,Lab,82625,53373,190,9423
+Colne Valley,-4,7,82516,111717,E14000645,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Jason,McCartney,Male,Con,Lab,84174,60892,228,5103
+Congleton,-5,2,72503,94744,E14000646,E12000002,Cheshire,North West,England,County,Fiona,Bruce,Female,Con,Lab,80930,57233,193,18561
+Copeland,-6,13,62087,78684,E14000647,E12000002,Cumbria,North West,England,County,Trudy,Harrison,Female,Con,Lab,61693,42523,173,5842
+Corby,4,1,79775,121295,E14000648,E12000004,Northamptonshire,East Midlands,England,County,Tom,Pursglove,Male,Con,Lab,86153,60475,265,10268
+Coventry North East,-1,-3,75462,124974,E14000649,E12000005,West Midlands,West Midlands,England,Borough,Colleen,Fletcher,Female,Lab,Con,76006,44444,127,7692
+Coventry North West,-1,-4,73626,112177,E14000650,E12000005,West Midlands,West Midlands,England,Borough,Taiwo,Owatemi,Female,Lab,Con,75247,47744,144,208
+Coventry South,0,-4,70397,122998,E14000651,E12000005,West Midlands,West Midlands,England,Borough,Zarah,Sultana,Female,Lab,Con,70979,45044,138,401
+Crawley,1,-14,73936,111664,E14000652,E12000008,West Sussex,South East,England,Borough,Henry,Smith,Male,Con,Lab,74207,49899,193,8360
+Crewe and Nantwich,-6,1,74169,110128,E14000653,E12000002,Cheshire,North West,England,County,Kieran,Mullan,Male,Con,Lab,80321,54032,123,8508
+Croydon Central,6,-14,78171,121087,E14000654,E12000007,London,London,England,Borough,Sarah,Jones,Female,Lab,Con,81407,54045,135,5949
+Croydon North,6,-13,85941,146065,E14000655,E12000007,London,London,England,Borough,Steve,Reed,Male,Lab,Con,88468,55609,167,24673
+Croydon South,5,-14,82010,117685,E14000656,E12000007,London,London,England,Borough,Chris,Philp,Male,Con,Lab,83982,59358,222,12339
+Dagenham and Rainham,9,-8,69128,112045,E14000657,E12000007,London,London,England,Borough,Jon,Cruddas,Male,Lab,Con,71045,43735,127,293
+Darlington,-1,12,65851,91768,E14000658,E12000001,Durham,North East,England,Borough,Peter,Gibson,Male,Con,Lab,66397,43498,81,3294
+Dartford,9,-11,75209,113576,E14000659,E12000008,Kent,South East,England,County,Gareth,Johnson,Male,Con,Lab,82209,54023,280,19160
+Daventry,1,-3,72873,99130,E14000660,E12000004,Northamptonshire,East Midlands,England,County,Chris,Heaton-Harris,Male,Con,Lab,77423,57403,246,26080
+Denton and Reddish,-4,5,66141,86628,E14000661,E12000002,Greater Manchester,North West,England,Borough,Andrew,Gwynne,Male,Lab,Con,66234,38588,106,6175
+Derby North,-1,2,69794,102733,E14000662,E12000004,Derbyshire,East Midlands,England,Borough,Amanda,Solloway,Female,Con,Lab,73199,47017,111,2540
+Derby South,-1,1,70240,115414,E14000663,E12000004,Derbyshire,East Midlands,England,Borough,Margaret,Beckett,Female,Lab,Con,73062,42462,137,6019
+Derbyshire Dales,-3,3,63476,79872,E14000664,E12000004,Derbyshire,East Midlands,England,County,Sarah,Dines,Female,Con,Lab,65080,50016,211,17381
+Devizes,-5,-10,69205,102273,E14000665,E12000009,Wiltshire,South West,England,County,Danny,Kruger,Male,Con,LD,73372,50954,269,23993
+Dewsbury,-2,7,79770,113692,E14000666,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Mark,Eastwood,Male,Con,Lab,81253,56389,272,1561
+Don Valley,1,5,71299,100175,E14000667,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Nick,Fletcher,Male,Con,Lab,75356,45437,82,3630
+Doncaster Central,1,6,71136,110064,E14000668,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Rosie,Winterton,Female,Lab,Con,71389,41581,108,2278
+Doncaster North,0,6,70989,98701,E14000669,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Edward,Miliband,Male,Lab,Con,72362,40698,95,2370
+Dover,13,-12,72930,101535,E14000670,E12000008,Kent,South East,England,County,Natalie,Elphicke,Female,Con,Lab,76355,50701,219,12278
+Dudley North,-7,-3,60717,84817,E14000671,E12000005,West Midlands,West Midlands,England,Borough,Marco,Longhi,Male,Con,Lab,61936,36684,156,11533
+Dudley South,-6,-4,60363,81197,E14000672,E12000005,West Midlands,West Midlands,England,Borough,Mike,Wood,Male,Con,Lab,60731,36576,163,15565
+Dulwich and West Norwood,5,-13,76575,116035,E14000673,E12000007,London,London,England,Borough,Helen,Hayes,Female,Lab,Green,80331,55778,236,27310
+Ealing Central and Acton,1,-10,71422,122419,E14000674,E12000007,London,London,England,Borough,Rupa,Huq,Female,Lab,Con,75510,54807,162,13300
+Ealing North,0,-9,73881,121080,E14000675,E12000007,London,London,England,Borough,James,Murray,Male,Lab,Con,74473,49631,224,12269
+"Ealing, Southall",0,-10,65606,99237,E14000676,E12000007,London,London,England,Borough,Virendra,Sharma,Male,Lab,Con,64581,42217,203,16084
+Easington,0,14,61659,82631,E14000677,E12000001,Durham,North East,England,County,Grahame,Morris,Male,Lab,Con,61182,34583,122,6581
+East Devon,-11,-14,76519,104193,E14000678,E12000009,Devon,South West,England,County,Simon,Jupp,Male,Con,Ind,87168,64073,150,6708
+East Ham,7,-9,87382,162796,E14000679,E12000007,London,London,England,Borough,Stephen,Timms,Male,Lab,Con,88319,54628,174,33176
+East Hampshire,-3,-12,71074,98009,E14000680,E12000008,Hampshire,South East,England,County,Damian,Hinds,Male,Con,LD,76478,56895,199,19696
+East Surrey,9,-14,79654,111878,E14000681,E12000008,Surrey,South East,England,County,Claire,Coutinho,Female,Con,LD,83148,59690,235,24040
+East Worthing and Shoreham,4,-15,74775,99758,E14000682,E12000008,West Sussex,South East,England,County,Tim,Loughton,Male,Con,Lab,75194,53128,188,7474
+East Yorkshire,3,10,81023,101516,E14000683,E12000003,Humberside,Yorkshire and The Humber,England,County,Greg,Knight,Male,Con,Lab,80923,52769,205,22787
+Eastbourne,9,-15,78262,110809,E14000684,E12000008,East Sussex,South East,England,Borough,Caroline,Ansell,Female,Con,LD,79307,55134,121,4331
+Eastleigh,-4,-12,79609,108865,E14000685,E12000008,Hampshire,South East,England,Borough,Paul,Holmes,Male,Con,LD,83880,58971,186,15607
+Eddisbury,-7,1,68569,89467,E14000686,E12000002,Cheshire,North West,England,County,Edward,Timpson,Male,Con,Lab,73700,52971,143,18443
+Edmonton,5,-7,66016,120266,E14000687,E12000007,London,London,England,Borough,Kate,Osamor,Female,Lab,Con,65747,40341,148,16015
+Ellesmere Port and Neston,-9,1,69223,87285,E14000688,E12000002,Cheshire,North West,England,County,Justin,Madders,Male,Lab,Con,70327,48746,128,8764
+Elmet and Rothwell,2,10,79143,100292,E14000689,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Alec,Shelbrooke,Male,Con,Lab,80957,58225,187,17353
+Eltham,8,-12,63998,95175,E14000690,E12000007,London,London,England,Borough,Clive,Efford,Male,Lab,Con,64086,43689,114,3197
+Enfield North,5,-6,68118,109930,E14000691,E12000007,London,London,England,Borough,Feryal,Clark,Female,Lab,Con,68301,45050,132,6492
+"Enfield, Southgate",4,-6,64937,102509,E14000692,E12000007,London,London,England,Borough,Bambos,Charalambous,Male,Lab,Con,65525,47276,127,4450
+Epping Forest,9,-6,73447,100102,E14000693,E12000006,Essex,East,England,County,Eleanor,Laing,Female,Con,Lab,74304,50268,269,22173
+Epsom and Ewell,1,-13,78633,109981,E14000694,E12000008,Surrey,South East,England,Borough,Chris,Grayling,Male,Con,LD,81138,59451,254,17873
+Erewash,1,0,71943,97103,E14000695,E12000004,Derbyshire,East Midlands,England,County,Maggie,Throup,Female,Con,Lab,72523,48814,168,10606
+Erith and Thamesmead,8,-11,70397,121265,E14000696,E12000007,London,London,England,Borough,Abena,Oppong-Asare,Female,Lab,Con,65399,41384,115,3758
+Esher and Walton,-1,-13,79894,114285,E14000697,E12000008,Surrey,South East,England,Borough,Dominic,Raab,Male,Con,LD,81184,63084,163,2743
+Exeter,-12,-13,76968,114569,E14000698,E12000009,Devon,South West,England,Borough,Ben,Bradshaw,Male,Lab,Con,82054,56192,221,10403
+Fareham,-4,-14,77114,101851,E14000699,E12000008,Hampshire,South East,England,County,Suella,Braverman,Female,Con,Lab,78337,57250,286,26086
+Faversham and Mid Kent,12,-11,69523,97954,E14000700,E12000008,Kent,South East,England,County,Helen,Whately,Female,Con,Lab,73403,50394,189,21976
+Feltham and Heston,0,-11,82340,134332,E14000701,E12000007,London,London,England,Borough,Seema,Malhotra,Female,Lab,Con,80934,47811,146,7859
+Filton and Bradley Stoke,-8,-8,71310,101349,E14000702,E12000009,Avon,South West,England,County,Jack,Lopresti,Male,Con,Lab,74016,53752,194,5646
+Finchley and Golders Green,3,-8,72530,130507,E14000703,E12000007,London,London,England,Borough,Mike,Freer,Male,Con,LD,77573,55109,213,6562
+Folkestone and Hythe,12,-14,83651,116776,E14000704,E12000008,Kent,South East,England,County,Damian,Collins,Male,Con,Lab,88272,59005,260,21337
+Fylde,-7,10,65679,84814,E14000706,E12000002,Lancashire,North West,England,County,Mark,Menzies,Male,Con,Lab,66847,46659,162,16611
+Gainsborough,2,5,74686,96951,E14000707,E12000004,Lincolnshire,East Midlands,England,County,Edward,Leigh,Male,Con,Lab,76343,51046,259,22967
+Garston and Halewood,-9,3,73719,99510,E14000708,E12000002,Merseyside,North West,England,Borough,Maria,Eagle,Female,Lab,Con,76116,53326,147,31624
+Gateshead,-3,15,64524,97101,E14000709,E12000001,Tyne and Wear,North East,England,Borough,Ian,Mearns,Male,Lab,Con,64449,38145,221,7200
+Gedling,3,2,70000,94780,E14000710,E12000004,Nottinghamshire,East Midlands,England,County,Tom,Randall,Male,Con,Lab,71366,49953,144,679
+Gillingham and Rainham,11,-11,70984,103079,E14000711,E12000008,Kent,South East,England,Borough,Rehman,Chishti,Male,Con,Lab,73549,45958,138,15119
+Gloucester,-7,-8,82968,119713,E14000712,E12000009,Gloucestershire,South West,England,Borough,Richard,Graham,Male,Con,Lab,81319,53764,200,10277
+Gosport,-3,-14,73268,99877,E14000713,E12000008,Hampshire,South East,England,Borough,Caroline,Dinenage,Female,Con,Lab,73541,48453,225,23278
+Grantham and Stamford,3,3,81150,111163,E14000714,E12000004,Lincolnshire,East Midlands,England,County,Gareth,Davies,Male,Con,Lab,81502,56003,305,26003
+Gravesham,10,-10,72043,106121,E14000715,E12000008,Kent,South East,England,County,Adam,Holloway,Male,Con,Lab,73242,47560,174,15581
+Great Grimsby,3,6,59200,88500,E14000716,E12000003,Humberside,Yorkshire and The Humber,England,Borough,Lia,Nici,Female,Con,Lab,61409,33087,71,7331
+Great Yarmouth,8,2,69793,99417,E14000717,E12000006,Norfolk,East,England,County,Brandon,Lewis,Male,Con,Lab,71957,43462,165,17663
+Greenwich and Woolwich,7,-11,73315,129210,E14000718,E12000007,London,London,England,Borough,Matthew,Pennycook,Male,Lab,Con,79997,53120,174,18464
+Guildford,-2,-13,75733,114435,E14000719,E12000008,Surrey,South East,England,County,Angela,Richardson,Female,Con,LD,77729,58651,152,3337
+Hackney North and Stoke Newington,5,-9,88153,141379,E14000720,E12000007,London,London,England,Borough,Diane,Abbott,Female,Lab,Con,92462,56864,244,33188
+Hackney South and Shoreditch,6,-10,84971,134550,E14000721,E12000007,London,London,England,Borough,Meg,Hillier,Female,Lab,Con,89387,54439,182,33985
+Halesowen and Rowley Regis,-6,-3,66048,89126,E14000722,E12000005,West Midlands,West Midlands,England,Borough,James,Morris,Male,Con,Lab,68300,42345,132,12074
+Halifax,-3,8,70462,104649,E14000723,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Holly,Lynch,Female,Lab,Con,71887,46458,134,2569
+Haltemprice and Howden,2,9,71195,89510,E14000724,E12000003,Humberside,Yorkshire and The Humber,England,County,David,Davis,Male,Con,Lab,71083,49779,249,20329
+Halton,-8,2,72818,97326,E14000725,E12000002,Cheshire,North West,England,County,Derek,Twigg,Male,Lab,Con,71930,46203,143,18975
+Hammersmith,2,-10,72254,117504,E14000726,E12000007,London,London,England,Borough,Andy,Slaughter,Male,Lab,Con,74759,51966,190,17847
+Hampstead and Kilburn,3,-9,80195,144586,E14000727,E12000007,London,London,England,Borough,Tulip,Siddiq,Female,Lab,Con,86571,57385,191,14188
+Harborough,3,-1,77760,106126,E14000728,E12000004,Leicestershire,East Midlands,England,County,Neil,O'Brien,Male,Con,Lab,80151,57319,212,17278
+Harlow,8,-3,67994,96754,E14000729,E12000006,Essex,East,England,County,Robert,Halfon,Male,Con,Lab,68078,43354,236,14063
+Harrogate and Knaresborough,-2,11,76408,103322,E14000730,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Andrew,Jones,Male,Con,LD,77941,56937,167,9675
+Harrow East,2,-8,70981,108089,E14000731,E12000007,London,London,England,Borough,Bob,Blackman,Male,Con,Lab,72106,49491,237,8170
+Harrow West,1,-8,69644,108963,E14000732,E12000007,London,London,England,Borough,Gareth,Thomas,Male,Lab,Con,72464,47922,158,8692
+Hartlepool,1,14,69947,93019,E14000733,E12000001,Cleveland,North East,England,Borough,Mike,Hill,Male,Lab,Con,70855,41037,119,3595
+Harwich and North Essex,10,-2,69290,95282,E14000734,E12000006,Essex,East,England,County,Bernard,Jenkin,Male,Con,Lab,74153,51963,162,20182
+Hastings and Rye,11,-14,75095,111779,E14000735,E12000008,East Sussex,South East,England,County,Sally-Ann,Hart,Female,Con,Lab,80524,54274,262,4043
+Havant,-1,-14,70573,95381,E14000736,E12000008,Hampshire,South East,England,Borough,Alan,Mak,Male,Con,Lab,72103,45959,202,21792
+Hayes and Harlington,-1,-9,74874,126503,E14000737,E12000007,London,London,England,Borough,John,McDonnell,Male,Lab,Con,72357,43994,108,9261
+Hazel Grove,-4,4,63098,80374,E14000738,E12000002,Greater Manchester,North West,England,County,William,Wragg,Male,Con,LD,63346,44269,203,4423
+Hemel Hempstead,5,-5,74616,106080,E14000739,E12000006,Hertfordshire,East,England,County,Mike,Penning,Male,Con,Lab,74035,51271,207,14563
+Hemsworth,0,7,72714,98041,E14000740,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Jon,Trickett,Male,Lab,Con,73726,43907,129,1180
+Hendon,2,-7,75285,138888,E14000741,E12000007,London,London,England,Borough,Matthew,Offord,Male,Con,Lab,82661,55075,133,4230
+Henley,1,-6,77946,99228,E14000742,E12000008,Oxfordshire,South East,England,County,John,Howell,Male,Con,LD,76646,58759,281,14053
+Hereford and South Herefordshire,-7,-5,71485,101437,E14000743,E12000005,Hereford and Worcester,West Midlands,England,County,Jesse,Norman,Male,Con,Lab,72085,49646,207,19686
+Hertford and Stortford,7,-3,80610,113894,E14000744,E12000006,Hertfordshire,East,England,County,Julie,Marson,Female,Con,Lab,81765,60094,229,19620
+Hertsmere,7,-5,73767,104031,E14000745,E12000006,Hertfordshire,East,England,County,Oliver,Dowden,Male,Con,Lab,73971,52203,268,21313
+Hexham,-4,16,59708,77272,E14000746,E12000001,Northumberland,North East,England,County,Guy,Opperman,Male,Con,Lab,61324,46150,180,10549
+Heywood and Middleton,-5,8,79989,106600,E14000747,E12000002,Greater Manchester,North West,England,County,Chris,Clarkson,Male,Con,Lab,80162,47488,153,663
+High Peak,-3,4,73336,92063,E14000748,E12000004,Derbyshire,East Midlands,England,County,Robert,Largan,Male,Con,Lab,74265,54173,141,590
+Hitchin and Harpenden,5,-3,80333,103624,E14000749,E12000006,Hertfordshire,East,England,County,Bim,Afolami,Male,Con,LD,76323,58871,266,6895
+Holborn and St Pancras,4,-10,86764,154210,E14000750,E12000007,London,London,England,Borough,Keir,Starmer,Male,Lab,Con,86061,56786,232,27763
+Hornchurch and Upminster,8,-8,79331,110402,E14000751,E12000007,London,London,England,Borough,Julia,Lopez,Female,Con,Lab,80765,53974,253,23308
+Hornsey and Wood Green,4,-7,79247,128655,E14000752,E12000007,London,London,England,Borough,Catherine,West,Female,Lab,LD,81814,61105,197,19242
+Horsham,1,-15,79085,111853,E14000753,E12000008,West Sussex,South East,England,County,Jeremy,Quin,Male,Con,LD,86730,63242,307,21127
+Houghton and Sunderland South,-1,14,68324,87575,E14000754,E12000001,Tyne and Wear,North East,England,Borough,Bridget,Phillipson,Female,Lab,Con,68835,39811,129,3115
+Hove,5,-15,73505,103177,E14000755,E12000008,East Sussex,South East,England,Borough,Peter,Kyle,Male,Lab,Con,74313,56391,151,17044
+Huddersfield,-3,7,65269,100197,E14000756,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Barry,Sheerman,Male,Lab,Con,65525,41882,216,4937
+Huntingdon,5,-2,82593,119679,E14000757,E12000006,Cambridgeshire,East,England,County,Jonathan,Djanogly,Male,Con,Lab,84657,59147,266,19383
+Hyndburn,-5,10,68341,92364,E14000758,E12000002,Lancashire,North West,England,Borough,Sara,Britcliffe,Female,Con,Lab,70842,42406,137,2951
+Ilford North,6,-7,75294,109618,E14000759,E12000007,London,London,England,Borough,Wes,Streeting,Male,Lab,Con,72973,50114,117,5218
+Ilford South,7,-8,91987,144360,E14000760,E12000007,London,London,England,Borough,Sam,Tarry,Male,Lab,Con,84972,53477,178,24101
+Ipswich,9,-1,74499,114348,E14000761,E12000006,Suffolk,East,England,Borough,Tom,Hunt,Male,Con,Lab,75525,49579,116,5479
+Islington North,4,-9,73326,116074,E14000763,E12000007,London,London,England,Borough,Jeremy,Corbyn,Male,Lab,LD,75162,53805,227,26188
+Islington South and Finsbury,5,-10,68127,118926,E14000764,E12000007,London,London,England,Borough,Emily,Thornberry,Female,Lab,LD,70489,47816,171,17328
+Jarrow,-1,15,64002,82979,E14000765,E12000001,Tyne and Wear,North East,England,Borough,Kate,Osborne,Female,Lab,Con,65103,40736,91,7120
+Keighley,-3,10,68865,97371,E14000766,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Robbie,Moore,Male,Con,Lab,72778,52600,276,2218
+Kenilworth and Southam,1,-4,63957,83252,E14000767,E12000005,Warwickshire,West Midlands,England,County,Jeremy,Wright,Male,Con,LD,68154,52597,211,20353
+Kensington,3,-10,61133,113446,E14000768,E12000007,London,London,England,Borough,Felicity,Buchan,Female,Con,Lab,64609,43762,92,150
+Kettering,4,0,70155,100252,E14000769,E12000004,Northamptonshire,East Midlands,England,County,Philip,Hollobone,Male,Con,Lab,73164,49361,155,16765
+Kingston and Surbiton,0,-13,81238,127264,E14000770,E12000007,London,London,England,Borough,Edward,Davey,Male,LD,Con,81975,60846,135,10489
+Kingston upon Hull East,3,7,65710,90986,E14000771,E12000003,Humberside,Yorkshire and The Humber,England,Borough,Karl,Turner,Male,Lab,Con,65745,32442,107,1239
+Kingston upon Hull North,3,9,64148,97969,E14000772,E12000003,Humberside,Yorkshire and The Humber,England,Borough,Diana,Johnson,Female,Lab,Con,65515,34203,112,7593
+Kingston upon Hull West and Hessle,3,8,59100,86690,E14000773,E12000003,Humberside,Yorkshire and The Humber,England,Borough,Emma,Hardy,Female,Lab,Con,60192,31356,80,2856
+Kingswood,-6,-8,68193,91234,E14000774,E12000009,Avon,South West,England,Borough,Chris,Skidmore,Male,Con,Lab,68972,49314,145,11220
+Knowsley,-9,6,79108,105786,E14000775,E12000002,Merseyside,North West,England,Borough,George,Howarth,Male,Lab,Con,84082,54938,133,39942
+Lancaster and Fleetwood,-4,12,61922,90139,E14000776,E12000002,Lancashire,North West,England,County,Cat,Smith,Female,Lab,Con,70059,45219,128,2380
+Leeds Central,0,9,81799,152847,E14000777,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Hilary,Benn,Male,Lab,Con,90971,49284,160,19270
+Leeds East,1,9,64754,99969,E14000778,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Richard,Burgon,Male,Lab,Con,67286,39052,120,5531
+Leeds North East,1,10,69097,92604,E14000779,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Fabian,Hamilton,Male,Lab,Con,70580,50500,531,17089
+Leeds North West,0,10,61974,86016,E14000780,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Alex,Sobel,Male,Lab,Con,67741,49283,138,10749
+Leeds West,-1,9,64950,94030,E14000781,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Rachel,Reeves,Female,Lab,Con,67727,40281,121,10564
+Leicester East,2,-1,75430,116911,E14000782,E12000004,Leicestershire,East Midlands,England,Borough,Claudia,Webbe,Female,Lab,Con,78433,49421,259,6019
+Leicester South,2,-2,73518,127672,E14000783,E12000004,Leicestershire,East Midlands,England,Borough,Jonathan,Ashworth,Male,Lab,Con,77708,50147,192,22675
+Leicester West,1,-1,63204,108957,E14000784,E12000004,Leicestershire,East Midlands,England,Borough,Liz,Kendall,Female,Lab,Con,64940,34775,151,4212
+Leigh,-8,6,75905,104932,E14000785,E12000002,Greater Manchester,North West,England,County,James,Grundy,Male,Con,Lab,77417,46979,168,1965
+Lewes,8,-15,69481,92793,E14000786,E12000008,East Sussex,South East,England,County,Maria,Caulfield,Female,Con,LD,71503,54851,144,2457
+Lewisham East,7,-13,66913,110260,E14000787,E12000007,London,London,England,Borough,Janet,Daby,Female,Lab,Con,67857,44815,139,17008
+Lewisham West and Penge,7,-12,72290,114967,E14000788,E12000007,London,London,England,Borough,Ellie,Reeves,Female,Lab,Con,74617,52100,192,21543
+"Lewisham, Deptford",6,-11,73428,125190,E14000789,E12000007,London,London,England,Borough,Vicky,Foxcroft,Female,Lab,Con,80631,55368,236,32913
+Leyton and Wanstead,6,-8,64580,110795,E14000790,E12000007,London,London,England,County,John,Cryer,Male,Lab,Con,64852,44547,174,20808
+Lichfield,-2,0,74234,95785,E14000791,E12000005,Staffordshire,West Midlands,England,County,Michael,Fabricant,Male,Con,Lab,76616,53993,240,23638
+Lincoln,3,5,74121,111942,E14000792,E12000004,Lincolnshire,East Midlands,England,Borough,Karl,McCartney,Male,Con,Lab,74942,50629,134,3514
+"Liverpool, Riverside",-10,4,70829,131888,E14000793,E12000002,Merseyside,North West,England,Borough,Kim,Johnson,Female,Lab,Con,80310,52789,242,37043
+"Liverpool, Walton",-10,6,61908,92439,E14000794,E12000002,Merseyside,North West,England,Borough,Dan,Carden,Male,Lab,Con,62628,40786,195,30520
+"Liverpool, Wavertree",-10,3,61549,95210,E14000795,E12000002,Merseyside,North West,England,Borough,Paula,Barker,Female,Lab,Con,63458,43377,141,27085
+"Liverpool, West Derby",-10,5,63651,93045,E14000796,E12000002,Merseyside,North West,England,Borough,Ian,Byrne,Male,Lab,Con,65640,43989,93,29984
+Loughborough,2,0,75217,107916,E14000797,E12000004,Leicestershire,East Midlands,England,County,Jane,Hunt,Female,Con,Lab,79764,54631,220,7169
+Louth and Horncastle,4,6,74870,99323,E14000798,E12000004,Lincolnshire,East Midlands,England,County,Victoria,Atkins,Female,Con,Lab,79634,52332,286,28868
+Ludlow,-8,-2,66374,86265,E14000799,E12000005,Shropshire,West Midlands,England,County,Philip,Dunne,Male,Con,LD,69444,50225,259,23648
+Luton North,5,-4,67329,101258,E14000800,E12000006,Bedfordshire,East,England,Borough,Sarah,Owen,Female,Lab,Con,68185,42589,155,9247
+Luton South,4,-5,67741,119759,E14000801,E12000006,Bedfordshire,East,England,Borough,Rachel,Hopkins,Female,Lab,Con,69338,42064,175,8756
+Macclesfield,-4,3,71712,93692,E14000802,E12000002,Cheshire,North West,England,County,David,Rutley,Male,Con,Lab,76216,53867,237,10711
+Maidenhead,-2,-7,74187,106307,E14000803,E12000008,Berkshire,South East,England,County,Theresa,May,Female,Con,LD,76668,56492,278,18846
+Maidstone and The Weald,11,-12,73181,108642,E14000804,E12000008,Kent,South East,England,County,Helen,Grant,Female,Con,Lab,76109,51680,261,21772
+Makerfield,-9,7,74320,100385,E14000805,E12000002,Greater Manchester,North West,England,County,Yvonne,Fovargue,Female,Lab,Con,74190,44259,161,4740
+Maldon,11,-4,69066,91364,E14000806,E12000006,Essex,East,England,County,John,Whittingdale,Male,Con,Lab,72438,50408,236,30041
+Manchester Central,-6,5,86078,158529,E14000807,E12000002,Greater Manchester,North West,England,Borough,Lucy,Powell,Female,Lab,Con,92247,52289,193,29089
+"Manchester, Gorton",-5,5,72992,119476,E14000808,E12000002,Greater Manchester,North West,England,Borough,Afzal,Khan,Male,Lab,Con,76419,44545,147,30339
+"Manchester, Withington",-6,4,74102,100773,E14000809,E12000002,Greater Manchester,North West,England,Borough,Jeff,Smith,Male,Lab,LD,76530,52995,181,27905
+Mansfield,1,3,77534,108576,E14000810,E12000004,Nottinghamshire,East Midlands,England,County,Ben,Bradley,Male,Con,Lab,77131,49273,157,16306
+Meon Valley,-4,-13,72738,94535,E14000811,E12000008,Hampshire,South East,England,County,Flick,Drummond,Female,Con,LD,75737,54829,211,23555
+Meriden,-2,-5,81928,111675,E14000812,E12000005,West Midlands,West Midlands,England,County,Saqib,Bhatti,Male,Con,Lab,85368,54161,236,22836
+Mid Bedfordshire,4,-4,78501,110736,E14000813,E12000006,Bedfordshire,East,England,County,Nadine,Dorries,Female,Con,Lab,87795,64717,225,24664
+Mid Derbyshire,-2,2,67477,84841,E14000814,E12000004,Derbyshire,East Midlands,England,County,Pauline,Latham,Female,Con,Lab,67442,49356,197,15385
+Mid Dorset and North Poole,-8,-12,64299,82737,E14000815,E12000009,Dorset,South West,England,County,Michael,Tomlinson,Male,Con,LD,65427,48930,152,14898
+Mid Norfolk,6,1,77154,105925,E14000816,E12000006,Norfolk,East,England,County,George,Freeman,Male,Con,Lab,82203,56186,335,22594
+Mid Sussex,10,-14,81034,112448,E14000817,E12000008,West Sussex,South East,England,County,Mims,Davies,Female,Con,LD,85146,62762,222,18197
+Mid Worcestershire,-5,-5,73069,101762,E14000818,E12000005,Hereford and Worcester,West Midlands,England,County,Nigel,Huddleston,Male,Con,Lab,78220,56123,204,28018
+Middlesbrough,1,12,61873,95892,E14000819,E12000001,Cleveland,North East,England,Borough,Andy,McDonald,Male,Lab,Con,60764,34097,85,8395
+Middlesbrough South and East Cleveland,2,12,71154,93537,E14000820,E12000001,Cleveland,North East,England,County,Simon,Clarke,Male,Con,Lab,72348,47817,180,11626
+Milton Keynes North,3,-3,86826,132573,E14000821,E12000008,Buckinghamshire,South East,England,County,Ben,Everitt,Male,Con,Lab,91545,62543,237,6255
+Milton Keynes South,3,-4,89656,134948,E14000822,E12000008,Buckinghamshire,South East,England,Borough,Iain,Stewart,Male,Con,Lab,96363,64007,181,6944
+Mitcham and Morden,3,-14,68474,106832,E14000823,E12000007,London,London,England,Borough,Siobhain,McDonagh,Female,Lab,Con,70021,45741,104,16482
+Mole Valley,0,-14,74038,97219,E14000824,E12000008,Surrey,South East,England,County,Paul,Beresford,Male,Con,LD,74665,57110,194,12041
+Morecambe and Lunesdale,-5,12,66985,89064,E14000825,E12000002,Lancashire,North West,England,County,David,Morris,Male,Con,Lab,67397,45310,138,6354
+Morley and Outwood,0,8,75820,98496,E14000826,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Andrea,Jenkyns,Female,Con,Lab,78803,51930,191,11267
+New Forest East,-6,-13,72697,93713,E14000827,E12000008,Hampshire,South East,England,County,Julian,Lewis,Male,Con,Lab,73549,50786,189,25251
+New Forest West,-6,-12,68446,85877,E14000828,E12000008,Hampshire,South East,England,County,Desmond,Swayne,Male,Con,LD,70869,50306,250,24403
+Newark,3,4,73747,104522,E14000829,E12000004,Nottinghamshire,East Midlands,England,County,Robert,Jenrick,Male,Con,Lab,75850,54762,259,21816
+Newbury,-4,-7,79512,111848,E14000830,E12000008,Berkshire,South East,England,County,Laura,Farris,Female,Con,LD,83414,59998,190,16047
+Newton Abbot,-12,-14,69928,90795,E14000835,E12000009,Devon,South West,England,County,Anne Marie,Morris,Female,Con,LD,72529,52556,182,17501
+"Normanton, Pontefract and Castleford",1,8,82592,112182,E14000836,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Yvette,Cooper,Female,Lab,Con,84527,48259,127,1276
+North Cornwall,-14,-13,67192,92772,E14000837,E12000009,Cornwall,South West,England,County,Scott,Mann,Male,Con,LD,69935,51678,256,14752
+North Devon,-12,-12,74737,95440,E14000838,E12000009,Devon,South West,England,County,Selaine,Saxby,Female,Con,LD,75859,55581,166,14813
+North Dorset,-7,-12,73759,98878,E14000839,E12000009,Dorset,South West,England,County,Simon,Hoare,Male,Con,LD,76765,56107,263,24301
+North Durham,-2,14,65359,88060,E14000840,E12000001,Durham,North East,England,County,Kevan,Jones,Male,Lab,Con,66796,42195,107,4742
+North East Bedfordshire,4,-2,83551,114925,E14000841,E12000006,Bedfordshire,East,England,County,Richard,Fuller,Male,Con,Lab,90678,65018,200,24283
+North East Cambridgeshire,6,0,82990,119024,E14000842,E12000006,Cambridgeshire,East,England,County,Stephen,Barclay,Male,Con,Lab,83699,52964,239,29993
+North East Derbyshire,-2,3,71445,91786,E14000843,E12000004,Derbyshire,East Midlands,England,County,Lee,Rowley,Male,Con,Lab,72345,49217,173,12876
+North East Hampshire,-3,-9,76918,100563,E14000844,E12000008,Hampshire,South East,England,County,Ranil,Jayawardena,Male,Con,LD,78954,59270,174,20211
+North East Hertfordshire,6,-3,74000,100639,E14000845,E12000006,Hertfordshire,East,England,County,Oliver,Heald,Male,Con,Lab,76123,55327,281,18189
+North East Somerset,-6,-10,69380,93654,E14000846,E12000009,Avon,South West,England,County,Jacob,Rees-Mogg,Male,Con,Lab,73692,56308,169,14729
+North Herefordshire,-8,-4,67926,89604,E14000847,E12000005,Hereford and Worcester,West Midlands,England,County,Bill,Wiggin,Male,Con,LD,70252,51033,276,24856
+North Norfolk,6,2,68867,86991,E14000848,E12000006,Norfolk,East,England,County,Duncan,Baker,Male,Con,LD,70729,50823,172,14395
+North Shropshire,-8,0,78858,109100,E14000849,E12000005,Shropshire,West Midlands,England,County,Owen,Paterson,Male,Con,Lab,83258,56513,205,22949
+North Somerset,-9,-11,80161,101910,E14000850,E12000009,Avon,South West,England,County,Liam,Fox,Male,Con,Lab,80194,62055,241,17536
+North Swindon,-5,-7,80983,112237,E14000851,E12000009,Wiltshire,South West,England,County,Justin,Tomlinson,Male,Con,Lab,82441,55115,209,16171
+North Thanet,13,-10,71478,98218,E14000852,E12000008,Kent,South East,England,County,Roger,Gale,Male,Con,Lab,72756,48178,250,17189
+North Tyneside,-1,16,79300,104399,E14000853,E12000001,Tyne and Wear,North East,England,Borough,Mary,Glindon,Female,Lab,Con,78902,50429,160,9561
+North Warwickshire,-1,-1,70152,92833,E14000854,E12000005,Warwickshire,West Midlands,England,County,Craig,Tracey,Male,Con,Lab,70271,45914,171,17956
+North West Cambridgeshire,5,-1,90318,133227,E14000855,E12000006,Cambridgeshire,East,England,County,Shailesh,Vara,Male,Con,Lab,94909,64533,315,25983
+North West Durham,-3,13,69816,94105,E14000856,E12000001,Durham,North East,England,County,Richard,Holden,Male,Con,Lab,72166,47663,128,1144
+North West Hampshire,-4,-10,79223,107227,E14000857,E12000008,Hampshire,South East,England,County,Kit,Malthouse,Male,Con,LD,83083,58918,270,26308
+North West Leicestershire,0,0,72193,100109,E14000858,E12000004,Leicestershire,East Midlands,England,County,Andrew,Bridgen,Male,Con,Lab,78935,53821,211,20400
+North West Norfolk,5,1,74402,98029,E14000859,E12000006,Norfolk,East,England,County,James,Wild,Male,Con,Lab,72080,46602,200,19922
+North Wiltshire,-5,-8,67851,94290,E14000860,E12000009,Wiltshire,South West,England,County,James,Gray,Male,Con,LD,73280,54758,216,17626
+Northampton North,3,-2,59144,88634,E14000861,E12000004,Northamptonshire,East Midlands,England,Borough,Michael,Ellis,Male,Con,Lab,58768,39539,120,5507
+Northampton South,2,-3,61287,101461,E14000862,E12000004,Northamptonshire,East Midlands,England,Borough,Andrew,Lewer,Male,Con,Lab,62163,40835,122,4697
+Norwich North,7,1,64515,89235,E14000863,E12000006,Norfolk,East,England,Borough,Chloe,Smith,Female,Con,Lab,67172,46285,127,4738
+Norwich South,8,0,74875,103284,E14000864,E12000006,Norfolk,East,England,Borough,Clive,Lewis,Male,Lab,Con,77845,51673,197,12760
+Nottingham East,2,1,60464,109797,E14000865,E12000004,Nottinghamshire,East Midlands,England,Borough,Nadia,Whittome,Female,Lab,Con,66262,40004,141,17393
+Nottingham North,2,2,65918,100690,E14000866,E12000004,Nottinghamshire,East Midlands,England,Borough,Alex,Norris,Male,Lab,Con,66495,35320,103,4490
+Nottingham South,1,1,68987,118722,E14000867,E12000004,Nottinghamshire,East Midlands,England,Borough,Lilian,Greenwood,Female,Lab,Con,79485,48134,181,12568
+Nuneaton,0,-2,68037,93717,E14000868,E12000005,Warwickshire,West Midlands,England,County,Marcus,Jones,Male,Con,Lab,70226,45190,215,13144
+Old Bexley and Sidcup,9,-12,66035,89400,E14000869,E12000007,London,London,England,Borough,James,Brokenshire,Male,Con,Lab,66104,46145,239,18952
+Oldham East and Saddleworth,-5,7,71475,105960,E14000870,E12000002,Greater Manchester,North West,England,County,Debbie,Abrahams,Female,Lab,Con,72120,46164,123,1499
+Oldham West and Royton,-6,7,71652,107334,E14000871,E12000002,Greater Manchester,North West,England,Borough,Jim,McMahon,Male,Lab,Con,72999,44434,117,11127
+Orpington,8,-14,68129,91917,E14000872,E12000007,London,London,England,Borough,Gareth,Bacon,Male,Con,Lab,68877,48721,263,22378
+Oxford East,0,-5,78978,123350,E14000873,E12000008,Oxfordshire,South East,England,Borough,Anneliese,Dodds,Female,Lab,Con,78303,49359,213,17832
+Oxford West and Abingdon,0,-6,76174,109678,E14000874,E12000008,Oxfordshire,South East,England,County,Layla,Moran,Female,LD,Con,76951,58824,238,8943
+Pendle,-5,11,64573,90696,E14000875,E12000002,Lancashire,North West,England,Borough,Andrew,Stephenson,Male,Con,Lab,65292,44460,172,6186
+Penistone and Stocksbridge,-3,6,70817,89284,E14000876,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Miriam,Cates,Female,Con,Lab,70925,49520,149,7210
+Penrith and The Border,-5,15,65209,82409,E14000877,E12000002,Cumbria,North West,England,County,Neil,Hudson,Male,Con,Lab,67555,47824,209,18519
+Peterborough,5,0,72530,122987,E14000878,E12000006,Cambridgeshire,East,England,Borough,Paul,Bristow,Male,Con,Lab,72560,47801,98,2580
+"Plymouth, Moor View",-14,-15,68246,93933,E14000879,E12000009,Devon,South West,England,Borough,Johnny,Mercer,Male,Con,Lab,69430,44239,202,12897
+"Plymouth, Sutton and Devonport",-14,-16,73274,114519,E14000880,E12000009,Devon,South West,England,Borough,Luke,Pollard,Male,Lab,Con,77852,53176,141,4757
+Poole,-9,-13,72557,98567,E14000881,E12000009,Dorset,South West,England,Borough,Robert,Syms,Male,Con,Lab,73989,50451,169,19116
+Poplar and Limehouse,8,-10,82081,161144,E14000882,E12000007,London,London,England,Borough,Apsana,Begum,Female,Lab,Con,91836,61276,277,28904
+Portsmouth North,-3,-13,73105,100174,E14000883,E12000008,Hampshire,South East,England,Borough,Penny,Mordaunt,Female,Con,Lab,71299,45910,145,15780
+Portsmouth South,-2,-14,71639,114544,E14000884,E12000008,Hampshire,South East,England,Borough,Stephen,Morgan,Male,Lab,Con,74186,47425,163,5363
+Preston,-7,11,59981,96426,E14000885,E12000002,Lancashire,North West,England,Borough,Mark,Hendrick,Male,Lab,Con,59672,33790,98,12146
+Pudsey,-1,10,70533,91879,E14000886,E12000003,West Yorkshire,Yorkshire and The Humber,England,Borough,Stuart,Andrew,Male,Con,Lab,73212,54215,142,3517
+Putney,3,-12,63923,98091,E14000887,E12000007,London,London,England,Borough,Fleur,Anderson,Female,Lab,Con,65556,50467,119,4774
+Rayleigh and Wickford,9,-5,77174,101041,E14000888,E12000006,Essex,East,England,County,Mark,Francois,Male,Con,Lab,78930,54901,293,31000
+Reading East,-3,-7,73232,115284,E14000889,E12000008,Berkshire,South East,England,Borough,Mathew,Rodda,Male,Lab,Con,77152,55918,137,5924
+Reading West,-3,-8,72567,104157,E14000890,E12000008,Berkshire,South East,England,County,Alok,Sharma,Male,Con,Lab,74137,50392,180,4117
+Redcar,1,13,64826,87215,E14000891,E12000001,Cleveland,North East,England,Borough,Jacob,Young,Male,Con,Lab,65864,40842,95,3527
+Redditch,-4,-6,65531,90889,E14000892,E12000005,Hereford and Worcester,West Midlands,England,County,Rachel,Maclean,Female,Con,Lab,65391,44067,215,16036
+Reigate,2,-14,73429,106027,E14000893,E12000008,Surrey,South East,England,Borough,Crispin,Blunt,Male,Con,Lab,74242,53156,231,18310
+Ribble Valley,-3,12,77379,99620,E14000894,E12000002,Lancashire,North West,England,County,Nigel,Evans,Male,Con,Lab,79247,55284,260,18439
+Richmond (Yorks),-3,11,79062,109492,E14000895,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Rishi,Sunak,Male,Con,Lab,82569,57703,203,27210
+Richmond Park,1,-12,77303,125093,E14000896,E12000007,London,London,England,Borough,Sarah,Olney,Female,LD,Con,82699,65067,173,7766
+Rochdale,-4,8,77248,111859,E14000897,E12000002,Greater Manchester,North West,England,County,Tony,Lloyd,Male,Lab,Con,78909,47447,162,9668
+Rochester and Strood,11,-10,77119,112916,E14000898,E12000008,Kent,South East,England,County,Kelly,Tolhurst,Female,Con,Lab,82056,51926,187,17072
+Rochford and Southend East,10,-5,71935,105200,E14000899,E12000006,Essex,East,England,County,James,Duddridge,Male,Con,Lab,75624,46136,180,12286
+Romford,7,-7,72594,104539,E14000900,E12000007,London,London,England,Borough,Andrew,Rosindell,Male,Con,Lab,72350,47231,240,17893
+Romsey and Southampton North,-5,-11,66519,91141,E14000901,E12000008,Hampshire,South East,England,County,Caroline,Nokes,Female,Con,LD,68228,51390,187,10872
+Rossendale and Darwen,-5,9,73779,98020,E14000902,E12000002,Lancashire,North West,England,Borough,Jake,Berry,Male,Con,Lab,72770,48822,231,9522
+Rother Valley,1,4,74275,96352,E14000903,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Alexander,Stafford,Male,Con,Lab,74804,48698,143,6318
+Rotherham,0,5,63698,91706,E14000904,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Sarah,Champion,Female,Lab,Con,61688,35651,103,3121
+Rugby,0,-3,71655,102733,E14000905,E12000005,Warwickshire,West Midlands,England,County,Mark,Pawsey,Male,Con,Lab,72292,50814,232,13447
+"Ruislip, Northwood and Pinner",1,-7,73216,97520,E14000906,E12000007,London,London,England,Borough,David,Simmonds,Male,Con,Lab,72816,52904,188,16394
+Runnymede and Weybridge,-1,-12,73771,108976,E14000907,E12000008,Surrey,South East,England,County,Ben,Spencer,Male,Con,Lab,77196,53289,184,18270
+Rushcliffe,3,1,73278,98568,E14000908,E12000004,Nottinghamshire,East Midlands,England,County,Ruth,Edwards,Female,Con,Lab,77047,60505,251,7643
+Rutland and Melton,4,2,79693,104112,E14000909,E12000004,Leicestershire,East Midlands,England,County,Alicia,Kearns,Female,Con,Lab,82705,58310,224,26924
+Saffron Walden,7,-2,80615,111701,E14000910,E12000006,Essex,East,England,County,Kemi,Badenoch,Female,Con,LD,87017,63086,318,27594
+Salford and Eccles,-7,5,74291,117990,E14000911,E12000002,Greater Manchester,North West,England,Borough,Rebecca,Long-Bailey,Female,Lab,Con,82202,50632,172,16327
+Salisbury,-6,-11,69582,96573,E14000912,E12000009,Wiltshire,South West,England,County,John,Glen,Male,Con,LD,74556,53730,168,19736
+Scarborough and Whitby,2,11,73511,96695,E14000913,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Robert,Goodwill,Male,Con,Lab,74404,49724,197,10270
+Scunthorpe,2,6,64025,91641,E14000914,E12000003,Humberside,Yorkshire and The Humber,England,County,Holly,Mumby-Croft,Female,Con,Lab,61955,37750,84,6451
+Sedgefield,-1,13,62844,84279,E14000915,E12000001,Durham,North East,England,County,Paul,Howell,Male,Con,Lab,64325,41566,98,4513
+Sefton Central,-9,8,67744,83315,E14000916,E12000002,Merseyside,North West,England,County,Bill,Esterson,Male,Lab,Con,69760,50880,153,15122
+Selby and Ainsty,2,8,76082,101373,E14000917,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Nigel,Adams,Male,Con,Lab,78398,56418,191,20137
+Sevenoaks,9,-13,71958,96949,E14000918,E12000008,Kent,South East,England,County,Laura,Trott,Female,Con,LD,71757,50956,244,20818
+Sheffield Central,-1,4,72321,130085,E14000919,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Paul,Blomfield,Male,Lab,Con,89849,50913,233,27273
+Sheffield South East,0,4,70422,94106,E14000920,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Clive,Betts,Male,Lab,Con,67832,41998,146,4289
+"Sheffield, Brightside and Hillsborough",-2,5,70874,112154,E14000921,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Gill,Furniss,Female,Lab,Con,69333,39600,122,12274
+"Sheffield, Hallam",-3,5,72351,92386,E14000922,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,Olivia,Blake,Female,Lab,LD,72763,56885,150,712
+"Sheffield, Heeley",-2,4,67950,94955,E14000923,E12000003,South Yorkshire,Yorkshire and The Humber,England,Borough,Louise,Haigh,Female,Lab,Con,66940,42695,132,8520
+Sherwood,2,3,73349,100376,E14000924,E12000004,Nottinghamshire,East Midlands,England,County,Mark,Spencer,Male,Con,Lab,77888,52709,183,16186
+Shipley,-2,10,70464,95974,E14000925,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Philip,Davies,Male,Con,Lab,74029,54004,258,6242
+Shrewsbury and Atcham,-9,-1,76400,106407,E14000926,E12000005,Shropshire,West Midlands,England,County,Daniel,Kawczynski,Male,Con,Lab,82238,59065,217,11217
+Sittingbourne and Sheppey,12,-10,76018,117975,E14000927,E12000008,Kent,South East,England,County,Gordon,Henderson,Male,Con,Lab,83917,51394,103,24479
+Skipton and Ripon,-4,11,76645,99840,E14000928,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Julian,Smith,Male,Con,Lab,78673,58724,239,23694
+Sleaford and North Hykeham,4,4,87972,118053,E14000929,E12000004,Lincolnshire,East Midlands,England,County,Caroline,Johnson,Female,Con,Lab,94761,66554,236,32565
+Slough,-2,-8,86366,142082,E14000930,E12000008,Berkshire,South East,England,Borough,Tan,Dhesi,Male,Lab,Con,86818,51038,155,13640
+Solihull,-2,-4,77956,102258,E14000931,E12000005,West Midlands,West Midlands,England,Borough,Julian,Knight,Male,Con,Lab,78760,55344,209,21273
+Somerton and Frome,-8,-11,83281,106834,E14000932,E12000009,Somerset,South West,England,County,David,Warburton,Male,Con,LD,85866,64896,225,19213
+South Basildon and East Thurrock,9,-7,71155,100461,E14000933,E12000006,Essex,East,England,County,Stephen,Metcalfe,Male,Con,Lab,74441,45297,198,19922
+South Cambridgeshire,6,-2,84132,115828,E14000934,E12000006,Cambridgeshire,East,England,County,Anthony,Browne,Male,Con,LD,87288,66929,304,2904
+South Derbyshire,-2,1,73923,102385,E14000935,E12000004,Derbyshire,East Midlands,England,County,Heather,Wheeler,Female,Con,Lab,79331,53381,429,19335
+South Dorset,-9,-15,71534,93451,E14000936,E12000009,Dorset,South West,England,County,Richard,Drax,Male,Con,Lab,73809,51058,184,17153
+South East Cambridgeshire,7,-1,84570,120504,E14000937,E12000006,Cambridgeshire,East,England,County,Lucy,Frazer,Female,Con,LD,86769,64385,255,11490
+South East Cornwall,-14,-14,71071,89989,E14000938,E12000009,Cornwall,South West,England,County,Sheryll,Murray,Female,Con,Lab,71825,53655,230,20971
+South Holland and The Deepings,4,3,76460,107467,E14000939,E12000004,Lincolnshire,East Midlands,England,County,John,Hayes,Male,Con,Lab,75975,49179,202,30838
+South Leicestershire,1,-2,76851,105253,E14000940,E12000004,Leicestershire,East Midlands,England,County,Alberto,Costa,Male,Con,Lab,80520,57469,298,24004
+South Norfolk,9,0,80721,107778,E14000941,E12000006,Norfolk,East,England,County,Richard,Bacon,Male,Con,Lab,86214,62484,291,21275
+South Northamptonshire,2,-4,85781,117338,E14000942,E12000004,Northamptonshire,East Midlands,England,County,Andrea,Leadsom,Female,Con,Lab,90842,66908,266,27761
+South Ribble,-8,9,76489,99596,E14000943,E12000002,Lancashire,North West,England,County,Katherine,Fletcher,Female,Con,Lab,75351,53784,209,11199
+South Shields,0,16,62730,83621,E14000944,E12000001,Tyne and Wear,North East,England,Borough,Emma,Lewell-Buck,Female,Lab,Con,62793,37882,80,9585
+South Staffordshire,-6,0,72771,97353,E14000945,E12000005,Staffordshire,West Midlands,England,County,Gavin,Williamson,Male,Con,Lab,73668,50005,259,28250
+South Suffolk,10,-1,73836,94900,E14000946,E12000006,Suffolk,East,England,County,James,Cartlidge,Male,Con,Lab,76201,53489,277,22897
+South Swindon,-4,-8,73926,108126,E14000947,E12000009,Wiltshire,South West,England,County,Robert,Buckland,Male,Con,Lab,73118,50746,247,6625
+South Thanet,13,-11,70970,101730,E14000948,E12000008,Kent,South East,England,County,Craig,Mackinlay,Male,Con,Lab,73223,48257,211,10587
+South West Bedfordshire,3,-5,79285,111581,E14000949,E12000006,Bedfordshire,East,England,County,Andrew,Selous,Male,Con,Lab,79926,53307,254,18583
+South West Devon,-13,-14,71035,89446,E14000950,E12000009,Devon,South West,England,County,Gary,Streeter,Male,Con,Lab,72535,53367,275,21430
+South West Hertfordshire,3,-6,79668,110191,E14000951,E12000006,Hertfordshire,East,England,County,Gagan,Mohindra,Male,Con,Ind,80499,61191,277,14408
+South West Norfolk,7,0,76970,109166,E14000952,E12000006,Norfolk,East,England,County,Elizabeth,Truss,Female,Con,Lab,78455,51466,184,26195
+South West Surrey,-2,-12,77548,106199,E14000953,E12000008,Surrey,South East,England,County,Jeremy,Hunt,Male,Con,LD,79096,60340,374,8817
+South West Wiltshire,-7,-11,73018,103010,E14000954,E12000009,Wiltshire,South West,England,County,Andrew,Murrison,Male,Con,Lab,77969,54895,246,21630
+"Southampton, Itchen",-5,-13,72281,110014,E14000955,E12000008,Hampshire,South East,England,Borough,Royston,Smith,Male,Con,Lab,72299,47421,137,4498
+"Southampton, Test",-5,-12,70270,112751,E14000956,E12000008,Hampshire,South East,England,Borough,Alan,Whitehead,Male,Lab,Con,70116,44994,122,6213
+Southend West,10,-6,66876,92501,E14000957,E12000006,Essex,East,England,Borough,David,Amess,Male,Con,Lab,69043,46537,260,14459
+Southport,-9,9,67326,92050,E14000958,E12000002,Merseyside,North West,England,Borough,Damien,Moore,Male,Con,Lab,70837,48180,190,4147
+Spelthorne,-1,-11,71592,99120,E14000959,E12000008,Surrey,South East,England,Borough,Kwasi,Kwarteng,Male,Con,Lab,70929,49510,273,18393
+St Albans,6,-5,75825,103086,E14000960,E12000006,Hertfordshire,East,England,County,Daisy,Cooper,Female,LD,Con,73727,57599,173,6293
+St Austell and Newquay,-15,-15,76607,106443,E14000961,E12000009,Cornwall,South West,England,County,Steve,Double,Male,Con,Lab,79930,55776,140,16526
+St Helens North,-9,5,75262,98708,E14000962,E12000002,Merseyside,North West,England,Borough,Conor,McGinn,Male,Lab,Con,75593,47561,167,12209
+St Helens South and Whiston,-9,4,77720,102854,E14000963,E12000002,Merseyside,North West,England,Borough,Marie,Rimmer,Female,Lab,Con,79061,50313,129,19122
+St Ives,-16,-16,65570,87250,E14000964,E12000009,Cornwall,South West,England,County,Derek,Thomas,Male,Con,LD,68795,51413,111,4280
+Stafford,-4,0,68705,97986,E14000965,E12000005,Staffordshire,West Midlands,England,County,Theo,Clarke,Female,Con,Lab,72572,51149,193,14377
+Staffordshire Moorlands,-3,2,63104,78763,E14000966,E12000005,Staffordshire,West Midlands,England,County,Karen,Bradley,Female,Con,Lab,65485,43656,173,16428
+Stalybridge and Hyde,-4,6,71357,94171,E14000967,E12000002,Greater Manchester,North West,England,County,Jonathan,Reynolds,Male,Lab,Con,73064,42368,143,2946
+Stevenage,6,-4,70597,98200,E14000968,E12000006,Hertfordshire,East,England,County,Stephen,McPartland,Male,Con,Lab,71562,47683,197,8562
+Stockport,-5,4,63931,88745,E14000969,E12000002,Greater Manchester,North West,England,Borough,Navendu,Mishra,Male,Lab,Con,65391,41715,145,10039
+Stockton North,0,13,66126,92763,E14000970,E12000001,Cleveland,North East,England,Borough,Alex,Cunningham,Male,Lab,Con,66649,41156,116,1027
+Stockton South,0,12,75111,103724,E14000971,E12000001,Cleveland,North East,England,Borough,Matt,Vickers,Male,Con,Lab,76870,54802,142,5260
+Stone,-5,0,67339,85555,E14000975,E12000005,Staffordshire,West Midlands,England,County,William,Cash,Male,Con,Lab,69378,49843,222,19945
+Stourbridge,-5,-4,69077,90208,E14000976,E12000005,West Midlands,West Midlands,England,Borough,Suzanne,Webb,Female,Con,Lab,69891,45689,142,13571
+Streatham,4,-13,79137,123997,E14000978,E12000007,London,London,England,Borough,Bell,Ribeiro-Addy,Female,Lab,LD,84783,56513,178,17690
+Stretford and Urmston,-7,4,69026,100958,E14000979,E12000002,Greater Manchester,North West,England,Borough,Kate,Green,Female,Lab,Con,72372,50067,155,16417
+Stroud,-6,-7,80544,104822,E14000980,E12000009,Gloucestershire,South West,England,County,Siobhan,Baillie,Female,Con,Lab,84537,65930,185,3840
+Suffolk Coastal,9,1,77816,102482,E14000981,E12000006,Suffolk,East,England,County,Thérèse,Coffey,Female,Con,Lab,81910,58308,199,20533
+Sunderland Central,0,15,72950,101578,E14000982,E12000001,Tyne and Wear,North East,England,Borough,Julie,Elliott,Female,Lab,Con,72680,43476,104,2964
+Surrey Heath,-1,-10,79515,109004,E14000983,E12000008,Surrey,South East,England,County,Michael,Gove,Male,Con,LD,81349,58654,237,18349
+Sutton and Cheam,2,-13,69228,101463,E14000984,E12000007,London,London,England,Borough,Paul,Scully,Male,Con,LD,71779,50487,211,8351
+Sutton Coldfield,-2,-1,74956,94906,E14000985,E12000005,West Midlands,West Midlands,England,Borough,Andrew,Mitchell,Male,Con,Lab,75638,52325,312,19272
+Tamworth,-1,0,71913,95401,E14000986,E12000005,Staffordshire,West Midlands,England,County,Christopher,Pincher,Male,Con,Lab,71572,46056,154,19634
+Tatton,-6,2,65004,86010,E14000987,E12000002,Cheshire,North West,England,County,Esther,McVey,Female,Con,Lab,69018,48967,179,17387
+Taunton Deane,-10,-13,83221,117423,E14000988,E12000009,Somerset,South West,England,County,Rebecca,Pow,Female,Con,LD,88676,63733,192,11700
+Telford,-8,-1,66166,96290,E14000989,E12000005,Shropshire,West Midlands,England,Borough,Lucy,Allan,Female,Con,Lab,68921,42825,224,10941
+Tewkesbury,-6,-6,78910,106198,E14000990,E12000009,Gloucestershire,South West,England,County,Laurence,Robertson,Male,Con,LD,83958,61140,261,22410
+The Cotswolds,-5,-6,78290,100817,E14000991,E12000009,Gloucestershire,South West,England,County,Geoffrey,Clifton-Brown,Male,Con,LD,81939,61176,265,20214
+The Wrekin,-7,0,65942,95165,E14000992,E12000005,Shropshire,West Midlands,England,County,Mark,Pritchard,Male,Con,Lab,70693,48890,194,18726
+Thirsk and Malton,1,11,77451,100911,E14000993,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Kevin,Hollinrake,Male,Con,Lab,80991,56588,242,25154
+Thornbury and Yate,-8,-7,66066,86444,E14000994,E12000009,Avon,South West,England,County,Luke,Hall,Male,Con,LD,69492,52243,254,12369
+Thurrock,8,-7,77559,128157,E14000995,E12000006,Essex,East,England,Borough,Jacqueline,Doyle-Price,Female,Con,Lab,79659,47467,139,11482
+Tiverton and Honiton,-11,-13,76270,101980,E14000996,E12000009,Devon,South West,England,County,Neil,Parish,Male,Con,Lab,82953,59613,248,24239
+Tonbridge and Malling,10,-12,74877,105463,E14000997,E12000008,Kent,South East,England,County,Thomas,Tugendhat,Male,Con,LD,79278,57003,312,26941
+Tooting,3,-13,76782,109451,E14000998,E12000007,London,London,England,Borough,Rosena,Allin-Khan,Female,Lab,Con,76954,58473,177,14307
+Torbay,-13,-15,76350,99901,E14000999,E12000009,Devon,South West,England,Borough,Kevin,Foster,Male,Con,LD,75054,50426,141,17749
+Torridge and West Devon,-13,-12,78621,101604,E14001000,E12000009,Devon,South West,England,County,Geoffrey,Cox,Male,Con,LD,80403,59730,233,24992
+Totnes,-13,-16,68630,85858,E14001001,E12000009,Devon,South West,England,County,Anthony,Mangnall,Male,Con,LD,69863,52182,196,12724
+Tottenham,4,-8,70803,142569,E14001002,E12000007,London,London,England,Borough,David,Lammy,Male,Lab,Con,75740,46856,204,30175
+Truro and Falmouth,-15,-16,73601,95669,E14001003,E12000009,Cornwall,South West,England,County,Cherilyn,Mackrory,Female,Con,Lab,76719,59190,171,4561
+Tunbridge Wells,10,-13,73429,107914,E14001004,E12000008,Kent,South East,England,County,Gregory,Clark,Male,Con,LD,74823,54650,321,14645
+Twickenham,0,-12,80250,117932,E14001005,E12000007,London,London,England,Borough,Munira,Wilson,Female,LD,Con,84906,64503,239,14121
+Tynemouth,-1,17,77524,100074,E14001006,E12000001,Tyne and Wear,North East,England,Borough,Alan,Campbell,Male,Lab,Con,77261,56034,179,4857
+Uxbridge and South Ruislip,0,-8,70631,110148,E14001007,E12000007,London,London,England,Borough,Boris,Johnson,Male,Con,Lab,70365,48187,93,7210
+Vauxhall,5,-12,82231,122334,E14001008,E12000007,London,London,England,Borough,Florence,Eshalomi,Female,Lab,LD,88659,56333,236,19612
+Wakefield,-1,7,70521,99280,E14001009,E12000003,West Yorkshire,Yorkshire and The Humber,England,County,Imran,Ahmad Khan,Male,Con,Lab,70192,45027,137,3358
+Wallasey,-11,3,65495,90343,E14001010,E12000002,Merseyside,North West,England,Borough,Angela,Eagle,Female,Lab,Con,66310,46492,102,18322
+Walsall North,-6,-1,67080,99247,E14001011,E12000005,West Midlands,West Midlands,England,Borough,Eddie,Hughes,Male,Con,Lab,67177,36556,125,11965
+Walsall South,-5,-1,67743,104514,E14001012,E12000005,West Midlands,West Midlands,England,Borough,Valerie,Vaz,Female,Lab,Con,68024,42472,115,3456
+Walthamstow,5,-8,67015,117946,E14001013,E12000007,London,London,England,County,Stella,Creasy,Female,Lab,Con,70267,48335,206,30862
+Wansbeck,-3,17,60705,82231,E14001014,E12000001,Northumberland,North East,England,County,Ian,Lavery,Male,Lab,Con,63339,40509,119,814
+Wantage,-2,-6,82931,117983,E14001015,E12000008,Oxfordshire,South East,England,County,David,Johnston,Male,Con,LD,90867,67173,306,12653
+Warley,-5,-3,63738,98304,E14001016,E12000005,West Midlands,West Midlands,England,Borough,John,Spellar,Male,Lab,Con,62357,37239,142,11511
+Warrington North,-8,4,72104,97017,E14001017,E12000002,Cheshire,North West,England,Borough,Charlotte,Nichols,Female,Lab,Con,72235,46667,169,1509
+Warrington South,-8,3,84767,112687,E14001018,E12000002,Cheshire,North West,England,Borough,Andy,Carter,Male,Con,Lab,86015,61899,187,2010
+Warwick and Leamington,-1,-5,71578,99849,E14001019,E12000005,Warwickshire,West Midlands,England,Borough,Matt,Western,Male,Lab,Con,76362,54205,128,789
+Washington and Sunderland West,-2,15,68190,88096,E14001020,E12000001,Tyne and Wear,North East,England,Borough,Sharon,Hodgson,Female,Lab,Con,66278,37513,108,3723
+Watford,7,-6,83535,122153,E14001021,E12000006,Hertfordshire,East,England,Borough,Dean,Russell,Male,Con,Lab,83359,58065,263,4433
+Waveney,8,1,80166,104861,E14001022,E12000006,Suffolk,East,England,County,Peter,Aldous,Male,Con,Lab,82791,51129,175,18002
+Wealden,11,-13,80236,108729,E14001023,E12000008,East Sussex,South East,England,County,Nusrat,Ghani,Female,Con,LD,82998,60907,365,25655
+Weaver Vale,-7,2,68407,89411,E14001024,E12000002,Cheshire,North West,England,County,Mike,Amesbury,Male,Lab,Con,70551,50713,113,562
+Wellingborough,4,-1,74317,113099,E14001025,E12000004,Northamptonshire,East Midlands,England,County,Peter,Bone,Male,Con,Lab,80765,51913,235,18540
+Wells,-10,-12,79405,106881,E14001026,E12000009,Somerset,South West,England,County,James,Heappey,Male,Con,LD,84124,61628,216,9991
+Welwyn Hatfield,7,-4,73247,116869,E14001027,E12000006,Hertfordshire,East,England,County,Grant,Shapps,Male,Con,Lab,74892,52053,226,10955
+Wentworth and Dearne,-1,5,74283,98554,E14001028,E12000003,South Yorkshire,Yorkshire and The Humber,England,County,John,Healey,Male,Lab,Con,74536,41557,127,2165
+West Bromwich East,-4,-2,63637,93365,E14001029,E12000005,West Midlands,West Midlands,England,Borough,Nicola,Richards,Female,Con,Lab,62046,35975,104,1593
+West Bromwich West,-5,-2,65524,95418,E14001030,E12000005,West Midlands,West Midlands,England,Borough,Shaun,Bailey,Male,Con,Lab,64517,34459,84,3799
+West Dorset,-9,-14,78000,98090,E14001031,E12000009,Dorset,South West,England,County,Chris,Loder,Male,Con,LD,81897,60925,237,14106
+West Ham,6,-9,90640,185200,E14001032,E12000007,London,London,England,Borough,Lyn,Brown,Female,Lab,Con,97947,60200,317,32388
+West Lancashire,-8,8,70906,97626,E14001033,E12000002,Lancashire,North West,England,County,Rosie,Cooper,Female,Lab,Con,73347,52663,170,8336
+West Suffolk,8,-1,76198,121071,E14001034,E12000006,Suffolk,East,England,County,Matthew,Hancock,Male,Con,Lab,80193,51437,336,23194
+West Worcestershire,-7,-4,73394,95096,E14001035,E12000005,Hereford and Worcester,West Midlands,England,County,Harriett,Baldwin,Female,Con,LD,76241,57530,296,24499
+Westminster North,3,-11,62346,129527,E14001036,E12000007,London,London,England,Borough,Karen,Buck,Female,Lab,Con,65519,42911,133,10759
+Westmorland and Lonsdale,-4,13,65857,84614,E14001037,E12000002,Cumbria,North West,England,County,Timothy,Farron,Male,LD,Con,67789,52712,141,1934
+Weston-Super-Mare,-9,-12,80309,110924,E14001038,E12000009,Avon,South West,England,County,John,Penrose,Male,Con,Lab,82526,55614,255,17121
+Wigan,-7,8,75990,104158,E14001039,E12000002,Greater Manchester,North West,England,County,Lisa,Nandy,Female,Lab,Con,75680,45042,134,6728
+Wimbledon,2,-12,65853,99220,E14001040,E12000007,London,London,England,Borough,Stephen,Hammond,Male,Con,LD,68240,53027,217,628
+Winchester,-4,-11,74119,102044,E14001041,E12000008,Hampshire,South East,England,County,Stephen,Brine,Male,Con,LD,75582,58890,210,985
+Windsor,-2,-9,71538,105669,E14001042,E12000008,Berkshire,South East,England,County,Adam,Afriyie,Male,Con,LD,75038,53750,201,20079
+Wirral South,-9,2,56956,72991,E14001043,E12000002,Merseyside,North West,England,County,Alison,McGovern,Female,Lab,Con,57280,43547,112,6105
+Wirral West,-11,2,55377,69375,E14001044,E12000002,Merseyside,North West,England,County,Margaret,Greenwood,Female,Lab,Con,55550,42918,107,3003
+Witham,10,-4,67090,91545,E14001045,E12000006,Essex,East,England,County,Priti,Patel,Female,Con,Lab,70402,49344,209,24082
+Witney,-1,-6,79767,109266,E14001046,E12000008,Oxfordshire,South East,England,County,Robert,Courts,Male,Con,LD,83845,61305,392,15177
+Woking,-2,-11,74269,108197,E14001047,E12000008,Surrey,South East,England,County,Jonathan,Lord,Male,Con,LD,75424,53937,177,9767
+Wokingham,-4,-9,77881,109445,E14001048,E12000008,Berkshire,South East,England,County,John,Redwood,Male,Con,LD,83953,61997,219,7383
+Wolverhampton North East,-7,-1,61065,90944,E14001049,E12000005,West Midlands,West Midlands,England,Borough,Jane,Stevenson,Female,Con,Lab,61660,34281,92,4080
+Wolverhampton South East,-6,-2,62556,93652,E14001050,E12000005,West Midlands,West Midlands,England,Borough,Pat,McFadden,Male,Lab,Con,62883,33443,78,1235
+Wolverhampton South West,-7,-2,60368,87774,E14001051,E12000005,West Midlands,West Midlands,England,Borough,Stuart,Anderson,Male,Con,Lab,60534,41136,148,1661
+Worcester,-6,-5,72461,102314,E14001052,E12000005,Hereford and Worcester,West Midlands,England,Borough,Robin,Walker,Male,Con,Lab,73485,50898,174,6758
+Workington,-5,14,58615,79433,E14001053,E12000002,Cumbria,North West,England,County,Mark,Jenkinson,Male,Con,Lab,61370,41599,93,4176
+Worsley and Eccles South,-8,5,72177,103048,E14001054,E12000002,Greater Manchester,North West,England,County,Barbara,Keeley,Female,Lab,Con,75219,44707,118,3219
+Worthing West,3,-15,75617,98911,E14001055,E12000008,West Sussex,South East,England,Borough,Peter,Bottomley,Male,Con,Lab,78585,54648,274,14823
+Wycombe,-1,-7,76371,111353,E14001056,E12000008,Buckinghamshire,South East,England,County,Steve,Baker,Male,Con,Lab,78093,54756,168,4214
+Wyre and Preston North,-6,11,70637,89672,E14001057,E12000002,Lancashire,North West,England,County,Ben,Wallace,Male,Con,Lab,74775,52924,200,16781
+Wyre Forest,-8,-3,77407,100715,E14001058,E12000005,Hereford and Worcester,West Midlands,England,County,Mark,Garnier,Male,Con,Lab,78077,50561,257,21413
+Wythenshawe and Sale East,-6,3,75994,108336,E14001059,E12000002,Greater Manchester,North West,England,Borough,Michael,Kane,Male,Lab,Con,76313,44759,125,10396
+Yeovil,-10,-14,82447,111055,E14001060,E12000009,Somerset,South West,England,County,Marcus,Fysh,Male,Con,LD,82468,59260,148,16181
+York Central,0,11,75351,111937,E14001061,E12000003,North Yorkshire,Yorkshire and The Humber,England,Borough,Rachael,Maskell,Female,Lab,Con,74899,49505,198,13545
+York Outer,-1,11,78561,96226,E14001062,E12000003,North Yorkshire,Yorkshire and The Humber,England,County,Julian,Sturdy,Male,Con,Lab,74673,55347,228,9985
+Belfast East,-14,13,63157,95193,N06000001,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Gavin,Robinson,Male,DUP,Alliance,66245,42445,169,1819
+Belfast North,-14,14,68553,104231,N06000002,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,Borough,John,Finucane,Male,SF,DUP,72225,49037,388,1943
+Belfast South,-14,12,64927,114391,N06000003,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Claire,Hanna,Female,SDLP,DUP,69984,47352,172,15401
+Belfast West,-15,13,62697,94620,N06000004,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,Borough,Paul,Maskey,Male,SF,PBPA,65644,38782,206,14672
+East Antrim,-14,15,62811,90196,N06000005,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Sammy,Wilson,Male,DUP,Alliance,64830,37261,170,6706
+East Londonderry,-16,15,66926,101534,N06000006,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Gregory,Campbell,Male,DUP,SDLP,69246,39302,193,9607
+Fermanagh and South Tyrone,-17,13,70108,107878,N06000007,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Michelle,Gildernew,Female,SF,UUP,72848,50762,324,57
+Foyle,-17,15,70036,103075,N06000008,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Colum,Eastwood,Male,SDLP,SF,74346,47144,226,17110
+Lagan Valley,-15,12,71152,107881,N06000009,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Jeffrey M.,Donaldson,Male,DUP,Alliance,75735,45405,184,6499
+Mid Ulster,-16,14,67832,103611,N06000010,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Francie,Molloy,Male,SF,DUP,70449,44620,348,9537
+Newry and Armagh,-15,11,77633,119091,N06000011,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Mickey,Brady,Male,SF,DUP,81226,50779,341,9287
+North Antrim,-15,15,75876,111886,N06000012,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Ian,Paisley,Male,DUP,UUP,77134,44051,304,12721
+North Down,-13,14,64207,91330,N06000013,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Stephen,Farry,Male,Alliance,DUP,67099,40643,172,2968
+South Antrim,-15,14,67425,102756,N06000014,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Paul,Girvan,Male,DUP,UUP,71711,42974,214,2689
+South Down,-13,12,75220,112809,N06000015,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Chris,Hazzard,Male,SF,SDLP,79175,49762,209,1620
+Strangford,-13,13,64289,91308,N06000016,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Jim,Shannon,Male,DUP,Alliance,66928,37485,175,7071
+Upper Bann,-16,12,80060,126134,N06000017,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Carla,Lockhart,Female,DUP,SF,82887,50045,303,8210
+West Tyrone,-17,14,63856,92910,N06000018,N92000002,Northern Ireland,Northern Ireland,Northern Ireland,County,Órfhlaith,Begley,Female,SF,DUP,66259,41186,189,7478
+Aberdeen North,-4,25,67745,100606,S14000001,S92000003,Scotland,Scotland,Scotland,Borough,Kirsty,Blackman,Female,SNP,Con,62489,37413,72,12670
+Aberdeen South,-3,24,68056,97610,S14000002,S92000003,Scotland,Scotland,Scotland,Borough,Stephen,Flynn,Male,SNP,Con,65719,45638,131,3990
+Airdrie and Shotts,-7,20,66792,87809,S14000003,S92000003,Scotland,Scotland,Scotland,County,Neil,Gray,Male,SNP,Lab,64011,39772,91,5201
+Angus,-5,23,65792,86637,S14000004,S92000003,Scotland,Scotland,Scotland,County,Dave,Doogan,Male,SNP,Con,63952,43170,92,3795
+Argyll and Bute,-8,23,68875,87660,S14000005,S92000003,Scotland,Scotland,Scotland,County,Brendan,O'Hara,Male,SNP,Con,66525,48050,142,4110
+"Ayr, Carrick and Cumnock",-8,16,72995,92472,S14000006,S92000003,Scotland,Scotland,Scotland,County,Allan,Dorans,Male,SNP,Con,71970,46592,138,2329
+Banff and Buchan,-5,24,68609,92185,S14000007,S92000003,Scotland,Scotland,Scotland,County,David,Duguid,Male,Con,SNP,66655,42260,96,4118
+"Berwickshire, Roxburgh and Selkirk",-5,17,74214,94586,S14000008,S92000003,Scotland,Scotland,Scotland,County,John,Lamont,Male,Con,SNP,74518,53146,170,5148
+"Caithness, Sutherland and Easter Ross",-6,26,47558,61311,S14000009,S92000003,Scotland,Scotland,Scotland,County,Jamie,Stone,Male,LD,SNP,46930,31457,61,204
+Central Ayrshire,-10,17,70021,88413,S14000010,S92000003,Scotland,Scotland,Scotland,County,Philippa,Whitford,Female,SNP,Con,69742,46534,105,5304
+"Coatbridge, Chryston and Bellshill",-8,20,73894,96764,S14000011,S92000003,Scotland,Scotland,Scotland,Borough,Steven,Bonnar,Male,SNP,Lab,72943,48221,121,5624
+"Cumbernauld, Kilsyth and Kirkintilloch East",-8,21,67088,85602,S14000012,S92000003,Scotland,Scotland,Scotland,County,Stuart C.,McDonald,Male,SNP,Lab,66079,45686,143,12976
+Dumfries and Galloway,-6,16,75249,94932,S14000013,S92000003,Scotland,Scotland,Scotland,County,Alister,Jack,Male,Con,SNP,74580,51429,123,1805
+"Dumfriesshire, Clydesdale and Tweeddale",-5,16,68483,86993,S14000014,S92000003,Scotland,Scotland,Scotland,County,David,Mundell,Male,Con,SNP,68330,49153,142,3781
+Dundee East,-5,22,67822,90377,S14000015,S92000003,Scotland,Scotland,Scotland,Borough,Stewart,Hosie,Male,SNP,Con,66210,45277,134,13375
+Dundee West,-6,23,65927,87906,S14000016,S92000003,Scotland,Scotland,Scotland,Borough,Chris,Law,Male,SNP,Lab,64431,41579,92,12259
+Dunfermline and West Fife,-6,21,78037,99724,S14000017,S92000003,Scotland,Scotland,Scotland,County,Douglas,Chapman,Male,SNP,Lab,76652,53482,130,10699
+East Dunbartonshire,-8,22,66966,82662,S14000018,S92000003,Scotland,Scotland,Scotland,County,Amy,Callaghan,Female,SNP,LD,66075,53031,80,149
+"East Kilbride, Strathaven and Lesmahagow",-8,17,83205,99275,S14000019,S92000003,Scotland,Scotland,Scotland,County,Lisa,Cameron,Female,SNP,Lab,81224,56337,137,13322
+East Lothian,-4,18,79481,102050,S14000020,S92000003,Scotland,Scotland,Scotland,County,Kenny,MacAskill,Male,SNP,Lab,81600,58513,114,3886
+East Renfrewshire,-10,18,69982,92380,S14000021,S92000003,Scotland,Scotland,Scotland,County,Kirsten,Oswald,Female,SNP,Con,72232,55357,176,5426
+Edinburgh East,-5,19,67141,96872,S14000022,S92000003,Scotland,Scotland,Scotland,Borough,Tommy,Sheppard,Male,SNP,Lab,69424,47815,142,10417
+Edinburgh North and Leith,-6,19,80910,111065,S14000023,S92000003,Scotland,Scotland,Scotland,Borough,Deidre,Brock,Female,SNP,Lab,81336,59344,105,12808
+Edinburgh South,-5,18,65801,88728,S14000024,S92000003,Scotland,Scotland,Scotland,Borough,Ian,Murray,Male,Lab,SNP,66188,49732,122,11095
+Edinburgh South West,-6,18,72149,101284,S14000025,S92000003,Scotland,Scotland,Scotland,Borough,Joanna,Cherry,Female,SNP,Con,73501,52131,91,11982
+Edinburgh West,-7,19,71717,94731,S14000026,S92000003,Scotland,Scotland,Scotland,Borough,Christine,Jardine,Female,LD,SNP,72507,54533,124,3769
+Falkirk,-7,21,83380,111872,S14000028,S92000003,Scotland,Scotland,Scotland,County,John,McNally,Male,SNP,Con,84472,55872,217,14948
+Glasgow Central,-9,19,70945,91166,S14000029,S92000003,Scotland,Scotland,Scotland,Borough,Alison,Thewliss,Female,SNP,Lab,69230,40105,153,6474
+Glasgow East,-8,18,70378,89140,S14000030,S92000003,Scotland,Scotland,Scotland,Borough,David,Linden,Male,SNP,Lab,67381,38483,102,5566
+Glasgow North,-9,20,60169,71997,S14000031,S92000003,Scotland,Scotland,Scotland,Borough,Patrick,Grady,Male,SNP,Lab,57130,36191,84,5601
+Glasgow North East,-9,21,66678,85826,S14000032,S92000003,Scotland,Scotland,Scotland,Borough,Anne,McLaughlin,Female,SNP,Lab,61075,33925,116,2548
+Glasgow North West,-10,21,68418,87060,S14000033,S92000003,Scotland,Scotland,Scotland,Borough,Carol,Monaghan,Female,SNP,Lab,63402,39735,180,8359
+Glasgow South,-9,18,74051,88617,S14000034,S92000003,Scotland,Scotland,Scotland,Borough,Stewart Malcolm,McDonald,Male,SNP,Lab,70891,47443,80,9005
+Glasgow South West,-10,19,66209,85844,S14000035,S92000003,Scotland,Scotland,Scotland,Borough,Chris,Stephens,Male,SNP,Lab,64575,36847,76,4900
+Glenrothes,-4,22,69781,89042,S14000036,S92000003,Scotland,Scotland,Scotland,County,Peter,Grant,Male,SNP,Lab,65672,41546,70,11757
+Gordon,-5,25,79393,102856,S14000037,S92000003,Scotland,Scotland,Scotland,County,Richard,Thomson,Male,SNP,Con,79629,55916,148,819
+Inverclyde,-11,21,59350,79860,S14000038,S92000003,Scotland,Scotland,Scotland,County,Ronnie,Cowan,Male,SNP,Lab,60622,39903,125,7512
+"Inverness, Nairn, Badenoch and Strathspey",-7,25,77628,103356,S14000039,S92000003,Scotland,Scotland,Scotland,County,Drew,Hendry,Male,SNP,Con,78059,54810,112,10440
+Kilmarnock and Loudoun,-7,16,75250,96159,S14000040,S92000003,Scotland,Scotland,Scotland,County,Alan,Brown,Male,SNP,Con,74517,47631,138,12659
+Kirkcaldy and Cowdenbeath,-5,21,75941,97838,S14000041,S92000003,Scotland,Scotland,Scotland,County,Neale,Hanvey,Male,SNP,Lab,72853,47005,108,1243
+Lanark and Hamilton East,-7,17,79962,98138,S14000042,S92000003,Scotland,Scotland,Scotland,County,Angela,Crawley,Female,SNP,Con,77659,53072,129,5187
+Linlithgow and East Falkirk,-6,20,86955,114250,S14000043,S92000003,Scotland,Scotland,Scotland,County,Martyn,Day,Male,SNP,Con,87044,57775,105,11266
+Livingston,-7,18,82373,108668,S14000044,S92000003,Scotland,Scotland,Scotland,County,Hannah,Bardell,Female,SNP,Con,82285,54592,146,13435
+Midlothian,-6,17,67875,86210,S14000045,S92000003,Scotland,Scotland,Scotland,County,Owen,Thompson,Male,SNP,Lab,70544,48221,140,5705
+Moray,-6,24,71685,94750,S14000046,S92000003,Scotland,Scotland,Scotland,County,Douglas,Ross,Male,Con,SNP,71035,48825,92,513
+Motherwell and Wishaw,-8,19,70283,91843,S14000047,S92000003,Scotland,Scotland,Scotland,Borough,Marion,Fellows,Female,SNP,Lab,68856,44420,93,6268
+North Ayrshire and Arran,-11,18,75791,94066,S14000048,S92000003,Scotland,Scotland,Scotland,County,Patricia,Gibson,Female,SNP,Con,73534,48154,115,8521
+North East Fife,-4,23,62003,80656,S14000049,S92000003,Scotland,Scotland,Scotland,County,Wendy,Chamberlain,Female,LD,SNP,60905,45878,140,1316
+Ochil and South Perthshire,-6,22,77370,101185,S14000050,S92000003,Scotland,Scotland,Scotland,County,John,Nicolson,Male,SNP,Con,78776,57813,131,4498
+Orkney and Shetland,-5,28,34552,44820,S14000051,S92000003,Scotland,Scotland,Scotland,County,Alistair,Carmichael,Male,LD,SNP,34211,23160,80,2507
+Paisley and Renfrewshire North,-10,20,66206,88981,S14000052,S92000003,Scotland,Scotland,Scotland,County,Gavin,Newlands,Male,SNP,Lab,72007,49682,153,11902
+Paisley and Renfrewshire South,-11,19,61281,85249,S14000053,S92000003,Scotland,Scotland,Scotland,County,Mhairi,Black,Female,SNP,Lab,64385,43084,133,10679
+Perth and North Perthshire,-7,23,72459,98885,S14000054,S92000003,Scotland,Scotland,Scotland,County,Pete,Wishart,Male,SNP,Con,72600,54076,111,7550
+"Ross, Skye and Lochaber",-7,24,54169,68433,S14000055,S92000003,Scotland,Scotland,Scotland,County,Ian,Blackford,Male,SNP,LD,54230,39869,80,9443
+Rutherglen and Hamilton West,-9,17,82830,105406,S14000056,S92000003,Scotland,Scotland,Scotland,Borough,Margaret,Ferrier,Female,SNP,Lab,80918,53794,125,5230
+Stirling,-7,22,67236,91580,S14000057,S92000003,Scotland,Scotland,Scotland,County,Alyn,Smith,Male,SNP,Con,68473,52620,105,9254
+West Aberdeenshire and Kincardine,-4,24,73445,96233,S14000058,S92000003,Scotland,Scotland,Scotland,County,Andrew,Bowie,Male,Con,SNP,72640,53345,114,843
+West Dunbartonshire,-9,22,69208,89730,S14000059,S92000003,Scotland,Scotland,Scotland,County,Martin,Docherty-Hughes,Male,SNP,Lab,66517,45140,104,9553
+Delyn,-11,1,53639,69801,W07000042,W92000004,Clwyd,Wales,Wales,County,Rob,Roberts,Male,Con,Lab,54560,38370,105,865
+Alyn and Deeside,-10,1,62016,85354,W07000043,W92000004,Clwyd,Wales,Wales,County,Mark,Tami,Male,Lab,Con,62789,43008,121,213
+Wrexham,-9,0,50992,70655,W07000044,W92000004,Clwyd,Wales,Wales,County,Sarah,Atherton,Female,Con,Lab,49737,33532,70,2131
+Llanelli,-14,-8,59314,82826,W07000045,W92000004,Dyfed,Wales,Wales,County,Nia,Griffith,Female,Lab,Con,60518,38233,152,4670
+Gower,-14,-9,61820,79176,W07000046,W92000004,West Glamorgan,Wales,Wales,County,Tonia,Antoniazzi,Female,Lab,Con,61762,44482,122,1837
+Swansea West,-13,-8,58776,83573,W07000047,W92000004,West Glamorgan,Wales,Wales,Borough,Geraint,Davies,Male,Lab,Con,57078,35830,127,8116
+Swansea East,-13,-7,58011,82731,W07000048,W92000004,West Glamorgan,Wales,Wales,Borough,Carolyn,Harris,Female,Lab,Con,58450,33579,66,7970
+Aberavon,-12,-8,49821,68203,W07000049,W92000004,West Glamorgan,Wales,Wales,County,Stephen,Kinnock,Male,Lab,Con,50750,31598,82,10490
+Cardiff Central,-9,-8,57456,93276,W07000050,W92000004,South Glamorgan,Wales,Wales,Borough,Jo,Stevens,Female,Lab,Con,64037,41822,204,17179
+Cardiff North,-10,-7,67196,90507,W07000051,W92000004,South Glamorgan,Wales,Wales,Borough,Anna,McMorrin,Female,Lab,Con,68438,52666,111,6982
+Rhondda,-11,-6,51811,69278,W07000052,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Bryant,Male,Lab,Con,50262,29642,83,11440
+Torfaen,-9,-5,61896,82378,W07000053,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Nick,Thomas-Symonds,Male,Lab,Con,62330,37176,126,3742
+Monmouth,-8,-5,62248,85613,W07000054,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,David T. C.,Davies,Male,Con,Lab,67098,50217,136,9982
+Newport East,-8,-6,56015,81090,W07000055,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Jessica,Morden,Female,Lab,Con,58554,36282,80,1992
+Newport West,-9,-7,62137,88258,W07000056,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Ruth,Jones,Female,Lab,Con,66657,43433,130,902
+Arfon,-13,-1,40492,62304,W07000057,W92000004,Gwynedd,Wales,Wales,County,Hywel,Williams,Male,PC,Lab,42215,29074,92,2781
+Aberconwy,-12,0,45525,58941,W07000058,W92000004,Clwyd,Wales,Wales,County,Robin,Millar,Male,Con,Lab,44699,31865,123,2034
+Clwyd West,-11,0,58644,73371,W07000059,W92000004,Clwyd,Wales,Wales,County,David,Jones,Male,Con,Lab,57714,40203,147,6747
+Dwyfor Meirionnydd,-12,-1,44394,61438,W07000061,W92000004,Gwynedd,Wales,Wales,County,Liz,Saville Roberts,Female,PC,Con,44362,29928,128,4740
+Clwyd South,-10,-1,54996,72600,W07000062,W92000004,Clwyd,Wales,Wales,County,Simon,Baynes,Male,Con,Lab,53919,36306,110,1239
+Montgomeryshire,-11,-1,48690,63271,W07000063,W92000004,Powys,Wales,Wales,County,Craig,Williams,Male,Con,LD,48997,34214,213,12138
+Ceredigion,-12,-6,54242,73076,W07000064,W92000004,Dyfed,Wales,Wales,County,Ben,Lake,Male,PC,Con,56250,40105,117,6329
+Preseli Pembrokeshire,-15,-7,57291,78902,W07000065,W92000004,Dyfed,Wales,Wales,County,Stephen,Crabb,Male,Con,Lab,59606,42419,153,5062
+Carmarthen West and South Pembrokeshire,-15,-8,57755,77544,W07000066,W92000004,Dyfed,Wales,Wales,County,Simon,Hart,Male,Con,Lab,59158,42114,146,7745
+Carmarthen East and Dinefwr,-14,-7,55750,71891,W07000067,W92000004,Dyfed,Wales,Wales,County,Jonathan,Edwards,Male,PC,Con,57419,41002,145,1809
+Brecon and Radnorshire,-9,-2,54441,69244,W07000068,W92000004,Powys,Wales,Wales,County,Fay,Jones,Female,Con,LD,55490,41319,110,7131
+Neath,-12,-7,56097,73887,W07000069,W92000004,West Glamorgan,Wales,Wales,County,Christina,Rees,Female,Lab,Con,56419,36756,107,5637
+Cynon Valley,-10,-5,51422,70673,W07000070,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Beth,Winter,Female,Lab,Con,51134,30236,99,8822
+Merthyr Tydfil and Rhymney,-9,-4,61716,76168,W07000071,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Gerald,Jones,Male,Lab,Con,56322,32246,83,10606
+Blaenau Gwent,-9,-3,51335,69609,W07000072,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Nick,Smith,Male,Lab,Brexit,50739,30219,84,8647
+Bridgend,-12,-9,59998,83796,W07000073,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Jamie,Wallis,Male,Con,Lab,63303,42236,101,1157
+Ogmore,-11,-8,55572,77515,W07000074,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Elmore,Male,Lab,Con,57581,35390,96,7805
+Pontypridd,-11,-7,58940,82153,W07000075,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Alex,Davies-Jones,Female,Lab,Con,60327,39060,153,5887
+Caerphilly,-10,-6,63603,88129,W07000076,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Wayne,David,Male,Lab,Con,63166,40117,160,6833
+Islwyn,-9,-6,55697,76451,W07000077,W92000004,Gwent and Mid Glamorgan,Wales,Wales,County,Chris,Evans,Male,Lab,Con,55423,34350,145,5464
+Cardiff West,-10,-8,66762,93312,W07000079,W92000004,South Glamorgan,Wales,Wales,Borough,Kevin,Brennan,Male,Lab,Con,68508,46177,144,10986
+Cardiff South and Penarth,-10,-9,76006,115406,W07000080,W92000004,South Glamorgan,Wales,Wales,Borough,Stephen,Doughty,Male,Lab,Con,78837,50579,160,12737

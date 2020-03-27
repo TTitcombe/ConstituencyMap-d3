@@ -12,8 +12,23 @@ A map of UK parliamentary constituencies created in D3
 - [x] Offset constituency circles on alternate rows
 - [x] Fit map to SVG size
     - [ ] Do this dynamically (without hard-coded numbers)
-- [ ] Combine map data with 2019 parliamentary results (pre-JS/d3)
+- [x] Combine map data with 2019 parliamentary results (pre-JS/d3)
     - [ ] Do this step in D3
 - [ ] Colour circles by party
 - [ ] Use hexagons instead of circles
 - [ ] Make constituencies interactive
+
+## Data
+- `uk_hex.csv`
+    - A hexmap created by [ODILeeds](https://odileeds.org/projects/hexmaps/constituencies/),
+    released under MIT license
+- `HoC-ge2019.csv`
+    - Results of the 2019 UK General Election
+    - Provided by [HoC library](https://commonslibrary.parliament.uk/research-briefings/cbp-8749/)
+    - Copyright HoC library
+- `combined_ge2019.csv`
+    - Merged `uk_hex.csv` and `HoC-ge2019.csv`
+    - Removed some unused fields, such as individual part votes, from combined dataset
+    - **Note**: Not all constituencies are present in both files.
+    I believe this is because the ODI map uses the old (2017) boundaries.
+    The hexmap will need to be updated.

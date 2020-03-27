@@ -78,7 +78,7 @@ createMap = data => {
         .attr("r", 5);
 };
 
-d3.csv("data/uk_hex.csv").then(data => {
+d3.csv("data/combined_ge2019.csv").then(data => {
     data = hexToSVG(data);
     createMap(data);
 });
