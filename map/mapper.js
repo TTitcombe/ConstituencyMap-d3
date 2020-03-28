@@ -17,7 +17,7 @@ hexToSVG = data => {
 
         // Offset constituencies on alternate rows
         if (d.r % 2 === 0) {
-            d.q = d_q + 0.5;
+            d.q = d_q - 0.5;
         } else {
             d.q = d_q;
         }
