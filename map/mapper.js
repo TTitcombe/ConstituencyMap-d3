@@ -55,6 +55,7 @@ createMap = data => {
     const xValue = d => d.x;
     const yValue = d => d.y;
     const partyValue = d => d.first_party;
+    const tooltipValue = d => d.Constituency;
 
     // Offset the chart from the top-left corner
     const chart = svg.append("g")
@@ -83,7 +84,9 @@ createMap = data => {
         .attr("cx", d => xValue(d))
         .attr("cy", d => yValue(d))
         .attr("r", 5)
-        .attr("fill", d => colourScale(partyValue(d)));
+        .attr("fill", d => colourScale(partyValue(d)))
+    .append("title")
+        .text(d => tooltipValue(d));
 };
 
 d3.csv("data/combined_ge2019.csv").then(data => {
