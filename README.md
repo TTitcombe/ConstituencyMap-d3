@@ -1,6 +1,8 @@
 # ConstituencyMap
 A map of UK parliamentary constituencies created in D3
 
+![UK parliamentary constituencies, coloured by elected party](./assets/map.png)
+
 ## How to run
 1. Clone this repository
 2. Navigate to the [`map`](./map) directory in the repository and run a server. This can be done by:

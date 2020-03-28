@@ -72,7 +72,7 @@ createMap = data => {
 
     // Colour constituency by winning party
     const parties = ["Con", "Lab", "LD", "Green", "Spk", "DUP", "SF", "SDLP", "Alliance", "SNP", "PC"];
-    const party_colours = ["#0087dc", "#d50000", "#008066", "#FDBB30", "#969696", "c63939", "#339966", "#007345", "#d4d411", "#FFF95D", "#3F8428"];
+    const party_colours = ["#0087dc", "#d50000", "#FDBB30", "#008066", "#969696", "c63939", "#339966", "#007345", "#d4d411", "#FFF95D", "#3F8428"];
 
     const colourScale = d3.scaleOrdinal(parties, party_colours);
 
