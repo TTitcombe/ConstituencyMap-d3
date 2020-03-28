@@ -80,11 +80,11 @@ createMap = data => {
     // Add constituency circles
     map.selectAll("circle").data(data)
         .enter().append("circle")
-        //.attr("id", "constituency")
+        .attr("id", "constituency")
         .attr("cx", d => xValue(d))
         .attr("cy", d => yValue(d))
         .attr("r", 5)
-        .attr("fill", d => colourScale(partyValue(d)))
+        .style("fill", d => colourScale(partyValue(d)))
     .append("title")
         .text(d => tooltipValue(d));
 };
