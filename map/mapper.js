@@ -54,6 +54,7 @@ hexToSVG = data => {
 createMap = data => {
     const xValue = d => d.x;
     const yValue = d => d.y;
+    const partyValue = d => d.first_party;
 
     // Offset the chart from the top-left corner
     const chart = svg.append("g")
@@ -67,15 +68,22 @@ createMap = data => {
 
     // Define a space for the map
     const map = chart.append("g")
-        .attr("transform", "translate(0, 25)");  // Leave space for title at the top of the chart
+        .attr("transform", "translate(0, 25)"); // Leave space for title at the top of the chart
+
+    // Colour constituency by winning party
+    const parties = ["Con", "Lab", "LD", "Green", "Spk", "DUP", "SF", "SDLP", "Alliance", "SNP", "PC"];
+    const party_colours = ["#0087dc", "#d50000", "#008066", "#FDBB30", "#969696", "c63939", "#339966", "#007345", "#d4d411", "#FFF95D", "#3F8428"];
+
+    const colourScale = d3.scaleOrdinal(parties, party_colours);
 
     // Add constituency circles
     map.selectAll("circle").data(data)
         .enter().append("circle")
-        .attr("id", "constituency")
+        //.attr("id", "constituency")
         .attr("cx", d => xValue(d))
         .attr("cy", d => yValue(d))
-        .attr("r", 5);
+        .attr("r", 5)
+        .attr("fill", d => colourScale(partyValue(d)));
 };
 
 d3.csv("data/combined_ge2019.csv").then(data => {
